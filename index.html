@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    try {
+      const storedTheme = localStorage.getItem("civic-theme");
+      if (storedTheme === "light" || storedTheme === "dark") {
+        document.querySelector('meta[name="color-scheme"]').content = storedTheme;
+      }
+    } catch (e) {}
+  </script>
+  <title>Public Service & Civic Opportunity Intelligence</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand-group">
+        <div class="brand-icon" aria-hidden="true">🏛️</div>
+        <div>
+          <h1 class="brand-title">Public Service & Civic Opportunity Intelligence</h1>
+          <p class="brand-subtitle">Deduplicated Government Technology Career & Civic Participation Portal</p>
+        </div>
+      </div>
+      <div class="header-controls">
+        <div class="candidate-badge" title="Verified Candidate Profile">
+          <span class="badge-dot" aria-hidden="true"></span>
+          <span>BS Computer Science (2025) &bull; 5 Yrs Tech &bull; Long Island, NY</span>
+        </div>
+        <button type="button" id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle color scheme">
+          <span class="theme-icon" aria-hidden="true">🌗</span>
+          <span class="theme-text">Theme</span>
+        </button>
+      </div>
+    </div>
+    <nav class="main-nav" aria-label="Primary Portal Navigation">
+      <ul class="nav-list" role="tablist">
+        <li role="presentation"><button type="button" role="tab" id="tab-briefing" class="nav-tab active" aria-selected="true" aria-controls="view-briefing">📊 Executive Briefing</button></li>
+        <li role="presentation"><button type="button" role="tab" id="tab-tracker" class="nav-tab" aria-selected="false" aria-controls="view-tracker">💼 Opportunity Tracker</button></li>
+        <li role="presentation"><button type="button" role="tab" id="tab-states" class="nav-tab" aria-selected="false" aria-controls="view-states">🗺️ 50-State Civil Service</button></li>
+        <li role="presentation"><button type="button" role="tab" id="tab-municipal" class="nav-tab" aria-selected="false" aria-controls="view-municipal">🗽 Long Island & NY Directory</button></li>
+        <li role="presentation"><button type="button" role="tab" id="tab-civic" class="nav-tab" aria-selected="false" aria-controls="view-civic">🤝 Civic Participation (Track 2)</button></li>
+        <li role="presentation"><button type="button" role="tab" id="tab-education" class="nav-tab" aria-selected="false" aria-controls="view-education">📚 Civic Education (Track 3)</button></li>
+        <li role="presentation"><button type="button" role="tab" id="tab-monitoring" class="nav-tab" aria-selected="false" aria-controls="view-monitoring">⚙️ Monitoring & Alerts</button></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="app-main">
+    <!-- VIEW 1: EXECUTIVE BRIEFING -->
+    <section id="view-briefing" class="view-panel active" role="tabpanel" aria-labelledby="tab-briefing">
+      <div id="urgent-alert-banner" class="alert-banner">
+        <!-- Injected via JavaScript -->
+      </div>
+
+      <div class="dashboard-grid">
+        <div class="card profile-card">
+          <div class="card-header">
+            <h2>Candidate Qualification Mapping</h2>
+            <span class="pill pill-success">Confirmed Fit</span>
+          </div>
+          <div class="profile-details">
+            <div class="profile-row">
+              <span class="profile-label">Education:</span>
+              <span class="profile-value">BS in Computer & Information Science (Conferred August 2025)</span>
+            </div>
+            <div class="profile-row">
+              <span class="profile-label">Technical Background:</span>
+              <span class="profile-value">~5 Years Professional Experience (Python, SQL, JavaScript, TypeScript, APIs, Databases, Systems Integration, IT Ops)</span>
+            </div>
+            <div class="profile-row">
+              <span class="profile-label">Target Geography:</span>
+              <span class="profile-value">Long Island (Nassau/Suffolk), NYC, Hybrid/Remote, New York State</span>
+            </div>
+          </div>
+          <div class="qualification-matrix">
+            <h3>Civil Service & Federal Equivalency Scorecard</h3>
+            <div class="scorecard-grid">
+              <div class="scorecard-item confirmed">
+                <div class="scorecard-title">NYS NY HELPS (SG-18 / SG-23)</div>
+                <div class="scorecard-status">Confirmed Match</div>
+                <div class="scorecard-desc">BS with 15+ CS credits + 5 yrs experience meets ITS 2 (SG-18) and ITS 3 / Data Analyst requirements without exam.</div>
+              </div>
+              <div class="scorecard-item confirmed">
+                <div class="scorecard-title">Federal Recent Graduates</div>
+                <div class="scorecard-status">Active Authority (Thru Aug 2027)</div>
+                <div class="scorecard-desc">Within the 2-year post-graduation window for non-competitive Recent Graduate Pathways (GS-7 to GS-11 target GS-12).</div>
+              </div>
+              <div class="scorecard-item confirmed">
+                <div class="scorecard-title">NYC Non-Competitive IT</div>
+                <div class="scorecard-status">Direct Appointment</div>
+                <div class="scorecard-desc">Qualifies for IT Project Specialist ($75k-$150k), IT Infrastructure Engineer ($75k-$180k), and City Research Scientist.</div>
+              </div>
+              <div class="scorecard-item confirmed">
+                <div class="scorecard-title">Long Island (Nassau / Suffolk)</div>
+                <div class="scorecard-status">Continuous Registers</div>
+                <div class="scorecard-desc">Meets Programmer Analyst, Network Specialist, and Applications Specialist Continuous Recruitment T&E thresholds.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card stats-card">
+          <div class="card-header">
+            <h2>Opportunity Intelligence Live Summary</h2>
+            <span class="pill pill-neutral" id="stats-date-pill">Verified Oct 21, 2026</span>
+          </div>
+          <div class="stat-boxes">
+            <div class="stat-box">
+              <div class="stat-num" id="stat-total-opps">0</div>
+              <div class="stat-lbl">Tracked Opportunities</div>
+            </div>
+            <div class="stat-box urgent">
+              <div class="stat-num" id="stat-urgent-7d">0</div>
+              <div class="stat-lbl">Deadlines &le; 7 Days</div>
+            </div>
+            <div class="stat-box warning">
+              <div class="stat-num" id="stat-approaching-14d">0</div>
+              <div class="stat-lbl">Deadlines &le; 14 Days</div>
+            </div>
+            <div class="stat-box success">
+              <div class="stat-num" id="stat-confirmed-match">0</div>
+              <div class="stat-lbl">Confirmed Fit</div>
+            </div>
+          </div>
+          <div class="action-card-callout">
+            <h3>Immediate Action Checklist</h3>
+            <ul class="checklist">
+              <li><input type="checkbox" id="chk-1" checked disabled><label for="chk-1"><strong>Review Critical Deadlines:</strong> Check positions closing within 7 and 14 days below.</label></li>
+              <li><input type="checkbox" id="chk-2"><label for="chk-2"><strong>Submit NY HELPS ITS 2 Application:</strong> Submit online via NYSED IT Portal before recruitment window closes.</label></li>
+              <li><input type="checkbox" id="chk-3"><label for="chk-3"><strong>Join Nassau Continuous Register:</strong> File T&E application for Programmer Analyst on Nassau GovernmentJobs.</label></li>
+              <li><input type="checkbox" id="chk-4"><label for="chk-4"><strong>Register Suffolk e-File:</strong> Create User ID on Suffolk Civil Service for continuous list notifications.</label></li>
+              <li><input type="checkbox" id="chk-5"><label for="chk-5"><strong>USAJOBS Saved Search:</strong> Configure Series 2210/1550 Recent Graduates alert (Active through Aug 2027).</label></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="briefing-container card">
+        <div class="card-header">
+          <h2>Official Weekly Briefing Report</h2>
+          <div class="card-header-actions">
+            <button type="button" class="btn btn-secondary btn-sm" id="btn-print-briefing">🖨️ Print / Save PDF</button>
+          </div>
+        </div>
+        <div id="briefing-markdown-content" class="briefing-body">
+          <!-- Dynamically populated -->
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 2: OPPORTUNITY TRACKER -->
+    <section id="view-tracker" class="view-panel" role="tabpanel" aria-labelledby="tab-tracker">
+      <div class="view-header">
+        <div>
+          <h2>Government Technology Opportunity Tracker</h2>
+          <p class="section-desc">Deduplicated database across New York State, New York City, Long Island, Authorities, and Federal USAJOBS.</p>
+        </div>
+        <div class="view-header-actions">
+          <button type="button" class="btn btn-secondary btn-sm" id="btn-export-csv">📥 Export CSV</button>
+          <button type="button" class="btn btn-secondary btn-sm" id="btn-export-json">📥 Export JSON</button>
+        </div>
+      </div>
+
+      <search class="search-filter-bar">
+        <form id="tracker-filter-form" onsubmit="event.preventDefault();">
+          <div class="search-input-group">
+            <label for="tracker-search-input" class="sr-only">Search opportunities:</label>
+            <input type="search" id="tracker-search-input" placeholder="Search by title, agency, keyword (e.g. Python, SQL, NY HELPS)...">
+          </div>
+          <div class="filter-controls">
+            <div class="select-group">
+              <label for="filter-category">Category:</label>
+              <select id="filter-category">
+                <option value="ALL">All Categories</option>
+                <option value="VACANCY">Vacancies (Direct-Hire / NY HELPS)</option>
+                <option value="EXAM_OPEN">Open Competitive Exams</option>
+                <option value="EXAM_CONTINUOUS">Continuous Recruitment Lists</option>
+                <option value="ELIGIBLE_LIST">Active Eligible Lists</option>
+                <option value="PATHWAY_FELLOWSHIP">Pathways & Fellowships</option>
+                <option value="HISTORICAL_MISSED">Historical / Closed Deadlines</option>
+              </select>
+            </div>
+            <div class="select-group">
+              <label for="filter-jurisdiction">Jurisdiction:</label>
+              <select id="filter-jurisdiction">
+                <option value="ALL">All Jurisdictions</option>
+                <option value="Long Island (Nassau/Suffolk)">Long Island (Nassau / Suffolk)</option>
+                <option value="New York City">New York City (DCAS / Agencies)</option>
+                <option value="NYS / NY HELPS">NYS / NY HELPS</option>
+                <option value="Public Authorities & Labs">Authorities & Labs (MTA, BNL, PANYNJ)</option>
+                <option value="SUNY / CUNY">SUNY / CUNY</option>
+                <option value="Federal USAJOBS">Federal Government (USAJOBS)</option>
+              </select>
+            </div>
+            <div class="select-group">
+              <label for="filter-match">Candidate Fit:</label>
+              <select id="filter-match">
+                <option value="ALL">All Matches</option>
+                <option value="Confirmed">Confirmed Fit Only</option>
+                <option value="Likely">Likely Fit</option>
+              </select>
+            </div>
+            <div class="select-group">
+              <label for="filter-urgency">Deadline Urgency:</label>
+              <select id="filter-urgency">
+                <option value="ALL">All Deadlines</option>
+                <option value="CRITICAL_7D">Critical &le; 7 Days</option>
+                <option value="APPROACHING_14D">Approaching &le; 14 Days</option>
+                <option value="OPEN">Open / Rolling</option>
+                <option value="CONTINUOUS">Continuous Recruitment</option>
+              </select>
+            </div>
+            <button type="button" class="btn btn-secondary btn-sm" id="btn-reset-filters">Reset Filters</button>
+          </div>
+        </form>
+      </search>
+
+      <div class="table-meta-bar">
+        <span id="tracker-count-badge">Showing 0 of 0 opportunities</span>
+        <span class="table-legend">
+          <span class="legend-item"><span class="badge badge-critical">Critical &le;7d</span></span>
+          <span class="legend-item"><span class="badge badge-warning">Approaching &le;14d</span></span>
+          <span class="legend-item"><span class="badge badge-success">Confirmed Fit</span></span>
+          <span class="legend-item"><span class="badge badge-helps">NY HELPS</span></span>
+        </span>
+      </div>
+
+      <div class="table-wrapper" tabindex="0" role="region" aria-label="Government Opportunities Directory">
+        <table id="opportunities-table" class="data-table">
+          <thead>
+            <tr>
+              <th scope="col" class="sortable" data-sort="title">Title & Classification</th>
+              <th scope="col" class="sortable" data-sort="category">Category</th>
+              <th scope="col" class="sortable" data-sort="agency">Agency & Jurisdiction</th>
+              <th scope="col" class="sortable" data-sort="salary">Salary</th>
+              <th scope="col" class="sortable" data-sort="match">Candidate Fit</th>
+              <th scope="col" class="sortable" data-sort="deadline">Deadline & Urgency</th>
+              <th scope="col">Action</th>
+            </tr>
+          </thead>
+          <tbody id="opportunities-tbody">
+            <!-- Populated via JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- VIEW 3: 50-STATE DIRECTORY -->
+    <section id="view-states" class="view-panel" role="tabpanel" aria-labelledby="tab-states">
+      <div class="view-header">
+        <div>
+          <h2>50-State Civil Service & Tech Career Directory</h2>
+          <p class="section-desc">Comprehensive reference across all 50 states and Washington D.C., covering official job portals, merit systems, Rule of Three/certification rules, state IT job series, and local municipal portals.</p>
+        </div>
+      </div>
+
+      <search class="search-filter-bar">
+        <form onsubmit="event.preventDefault();">
+          <div class="search-input-group">
+            <label for="state-search-input" class="sr-only">Search states:</label>
+            <input type="search" id="state-search-input" placeholder="Search state name, IT job series, merit model (e.g. California, Rule of Three, Systems Analyst)...">
+          </div>
+        </form>
+      </search>
+
+      <div class="states-grid" id="states-card-grid">
+        <!-- Injected via JavaScript -->
+      </div>
+    </section>
+
+    <!-- VIEW 4: LONG ISLAND & NY DIRECTORY -->
+    <section id="view-municipal" class="view-panel" role="tabpanel" aria-labelledby="tab-municipal">
+      <div class="view-header">
+        <div>
+          <h2>Long Island Municipal & Regional Public Directory</h2>
+          <p class="section-desc">Local civil service administration, all 13 Long Island Towns, 2 Cities, major Villages, Public Authorities, and Higher Education systems.</p>
+        </div>
+      </div>
+
+      <div class="municipal-accordion" id="municipal-accordion-container">
+        <!-- Injected via JavaScript -->
+      </div>
+    </section>
+
+    <!-- VIEW 5: CIVIC PARTICIPATION (TRACK 2) -->
+    <section id="view-civic" class="view-panel" role="tabpanel" aria-labelledby="tab-civic">
+      <div class="view-header">
+        <div>
+          <h2>Track 2: Civic Participation & Public Opportunities</h2>
+          <p class="section-desc">Legitimate avenues to contribute your technical abilities to government and civic technology beyond holding full-time employment.</p>
+        </div>
+      </div>
+
+      <div class="civic-filter-pills" id="civic-filter-bar">
+        <button type="button" class="pill-btn active" data-category="ALL">All Civic Tracks</button>
+        <button type="button" class="pill-btn" data-category="CIVIC_TECH_VOLUNTEER">Civic Tech Volunteering</button>
+        <button type="button" class="pill-btn" data-category="COMMITTEE_BOARD">Committees & Boards</button>
+        <button type="button" class="pill-btn" data-category="PUBLIC_MEETING_HEARING">Public Hearings & Meetings</button>
+        <button type="button" class="pill-btn" data-category="OPEN_DATA_INITIATIVE">Open Data Initiatives</button>
+        <button type="button" class="pill-btn" data-category="PROCUREMENT_RFP">Procurements & RFPs</button>
+        <button type="button" class="pill-btn" data-category="COMMUNITY_AUTOMATION_PROJECT">Community Tech Blueprints</button>
+        <button type="button" class="pill-btn" data-category="PUBLIC_TRAINING">Free Public Training</button>
+      </div>
+
+      <div class="civic-cards-container" id="civic-cards-container">
+        <!-- Injected via JavaScript -->
+      </div>
+    </section>
+
+    <!-- VIEW 6: PRACTICAL CIVIC EDUCATION (TRACK 3) -->
+    <section id="view-education" class="view-panel" role="tabpanel" aria-labelledby="tab-education">
+      <div class="view-header">
+        <div>
+          <h2>Track 3: Practical Civic Education Curriculum</h2>
+          <p class="section-desc">Demystifying the public processes, civil service systems, municipal budgeting, and legal rights that govern public technology and civic participation.</p>
+        </div>
+      </div>
+
+      <div class="education-layout">
+        <aside class="education-sidebar" aria-label="Curriculum Navigation">
+          <ul class="education-nav-list" id="education-nav-list">
+            <!-- Injected via JavaScript -->
+          </ul>
+        </aside>
+        <article class="education-content card" id="education-article-content">
+          <!-- Injected via JavaScript -->
+        </article>
+      </div>
+    </section>
+
+    <!-- VIEW 7: MONITORING & SUBSCRIPTIONS -->
+    <section id="view-monitoring" class="view-panel" role="tabpanel" aria-labelledby="tab-monitoring">
+      <div class="view-header">
+        <div>
+          <h2>Monitoring Engine & Notification Subscriptions</h2>
+          <p class="section-desc">Automated weekly intelligence workflow, change detection mechanics, and official notification subscription setup.</p>
+        </div>
+      </div>
+
+      <div class="monitoring-grid">
+        <div class="card">
+          <div class="card-header">
+            <h3>Automated Cloud Monitoring (GitHub Actions)</h3>
+            <span class="pill pill-success">Daily at 9:00 AM EDT</span>
+          </div>
+          <p>This intelligence system runs unattended daily via <strong>GitHub Actions</strong> in the cloud. Each day at 9:00 AM EDT (13:00 UTC), GitHub's runners query official government endpoints, detect changes, archive expired listings, highlight deadlines &le; 14 days, rotate civic education topics, and commit fresh data directly to this site.</p>
+          
+          <div class="github-actions-status-card" style="background-color: var(--bg-surface-alt); padding: 1rem; border-radius: var(--radius-md); border: 1px solid var(--border-subtle); margin-block: 1rem;">
+            <div style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+              <div>
+                <strong style="display: block; font-size: 0.95rem;">Workflow: daily-civic-monitor.yml</strong>
+                <span style="font-size: 0.85rem; color: var(--text-muted);">Schedule: <code>0 13 * * *</code> (Daily 9:00 AM America/New_York)</span>
+              </div>
+              <a href="https://github.com/frankstop/civic-opportunity-intelligence/actions/workflows/daily-civic-monitor.yml" target="_blank" rel="noopener" class="btn btn-secondary btn-sm">
+                View GitHub Actions Runs &rarr;
+              </a>
+            </div>
+          </div>
+
+          <div class="code-block-wrapper">
+            <pre tabindex="0"><code># Trigger the daily GitHub Actions workflow via CLI:
+gh workflow run daily-civic-monitor.yml --repo frankstop/civic-opportunity-intelligence
+
+# Or run the audit locally:
+python3 scripts/monitor.py</code></pre>
+          </div>
+          <div class="monitoring-run-box">
+            <a href="https://github.com/frankstop/civic-opportunity-intelligence/actions/workflows/daily-civic-monitor.yml" target="_blank" rel="noopener" class="btn btn-primary" id="btn-trigger-monitor">⚡ Trigger Workflow on GitHub Actions &rarr;</a>
+            <span id="monitor-run-status" class="status-msg"></span>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <h3>Official Government Notification Subscriptions</h3>
+          </div>
+          <p>Activate these official email and portal notifications so new exam announcements arrive directly in your inbox the day they publish:</p>
+          <ul class="subscription-list">
+            <li>
+              <strong>New York State Civil Service Exam Alerts:</strong>
+              <p>Sign up on the NYS Civil Service website to receive automated email notifications when new open-competitive examinations are scheduled.</p>
+              <a href="https://www.cs.ny.gov/announ/tentative_schedule.cfm" target="_blank" rel="noopener" class="link-btn">Subscribe on CS.NY.GOV &rarr;</a>
+            </li>
+            <li>
+              <strong>NYC DCAS Monthly Examination Schedule:</strong>
+              <p>Subscribe to the DCAS newsletter or check the OASys portal on the first Wednesday of each month for the monthly application schedule.</p>
+              <a href="https://a856-oasys.nyc.gov/" target="_blank" rel="noopener" class="link-btn">Open DCAS OASys Portal &rarr;</a>
+            </li>
+            <li>
+              <strong>Suffolk County Civil Service Examination Alerts:</strong>
+              <p>Subscribe to Suffolk County eUpdates for real-time exam announcement summaries.</p>
+              <a href="https://apps2.suffolkcountyny.gov/civilservice/efile/default.aspx" target="_blank" rel="noopener" class="link-btn">Subscribe on Suffolk e-File &rarr;</a>
+            </li>
+            <li>
+              <strong>NYS Contract Reporter Daily RFP Digest:</strong>
+              <p>Register a free vendor account on NYSCR to receive automated morning emails for state IT and software solicitations.</p>
+              <a href="https://www.nyscr.ny.gov/" target="_blank" rel="noopener" class="link-btn">Register on NYSCR &rarr;</a>
+            </li>
+            <li>
+              <strong>USAJOBS Saved Search (Recent Graduates & 2210 Series):</strong>
+              <p>Set a daily alert for Series 2210/1550 filtered by 'Recent Graduates' within New York State and Remote.</p>
+              <a href="https://www.usajobs.gov/" target="_blank" rel="noopener" class="link-btn">Open USAJOBS &rarr;</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- OPPORTUNITY DETAIL DIALOG (Native modern dialog with light-dismiss) -->
+  <dialog id="detail-dialog" closedby="any" aria-labelledby="dialog-title">
+    <div class="dialog-content">
+      <div class="dialog-header">
+        <div>
+          <span id="dialog-cat-badge" class="badge"></span>
+          <h2 id="dialog-title">Opportunity Details</h2>
+          <p id="dialog-subtitle" class="dialog-subtitle"></p>
+        </div>
+        <form method="dialog">
+          <button type="submit" class="dialog-close-btn" aria-label="Close dialog">&times;</button>
+        </form>
+      </div>
+      <div class="dialog-body" id="dialog-body">
+        <!-- Injected via JavaScript -->
+      </div>
+      <div class="dialog-footer">
+        <div id="dialog-status-tracker" class="dialog-status-box">
+          <label for="dialog-user-status">My Tracking Status:</label>
+          <select id="dialog-user-status">
+            <option value="Not Started">Not Started</option>
+            <option value="Reviewing">Reviewing</option>
+            <option value="Preparing Docs">Preparing Application / Transcripts</option>
+            <option value="Applied">Applied / Registered</option>
+            <option value="On Eligible List">On Eligible List</option>
+            <option value="Archived">Archived</option>
+          </select>
+        </div>
+        <div class="dialog-footer-actions">
+          <form method="dialog">
+            <button type="submit" class="btn btn-secondary">Close</button>
+          </form>
+          <a id="dialog-official-link" href="#" target="_blank" rel="noopener" class="btn btn-primary">Open Official Government Portal &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <footer class="app-footer">
+    <div class="footer-inner">
+      <p>&copy; 2026 Public Service & Civic Opportunity Intelligence System &bull; Dedicated to systematic information transparency and civic engagement on Long Island, NYC, and New York State.</p>
+      <p class="footer-note">All opportunities verified against authoritative government domains (statejobs.ny.gov, cs.ny.gov, cityjobs.nyc.gov, usajobs.gov, nassaucivilservice.com, suffolkcountyny.gov). Politically neutral.</p>
+    </div>
+  </footer>
+
+  <!-- DATA BUNDLE -->
+  <script src="data/data_bundle.js"></script>
+  <!-- APPLICATION SCRIPT -->
+  <script src="app.js"></script>
+</body>
+</html>

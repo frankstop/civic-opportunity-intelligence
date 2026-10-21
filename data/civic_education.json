@@ -1,0 +1,370 @@
+[
+  {
+    "topic_id": "CIVIC-EDU-01",
+    "week_number": 1,
+    "title": "How Civil-Service Examinations and Eligible Lists Function",
+    "summary": "Understand the constitutional merit system, the Rule of Three, continuous recruitment, eligible list lifespans, and why NY HELPS represents an unprecedented window of opportunity.",
+    "sections": [
+      {
+        "heading": "1. Constitutional Merit & The Rule of Three",
+        "content": "Article V, Section 6 of the New York State Constitution mandates that appointments and promotions in the civil service of the state and all of its civil divisions shall be made according to merit and fitness, to be ascertained, as far as practicable, by examination. Under New York State Civil Service Law \u00a7 61(1), whenever an agency seeks to fill a competitive vacancy from an eligible list, the appointment must be made from among the top three (3) individuals certified as standing highest on the list who are willing to accept the position. This is known as the 'Rule of Three' or 'one-in-three rule'. It prevents nepotism by restricting an appointing officer's choice to the highest-scoring available candidates."
+      },
+      {
+        "heading": "2. How Scores and Banding Determine Your Reachability",
+        "content": "Examinations yield a final score combining raw test results, veterans' credits (5 points for non-disabled, 10 for disabled veterans), and seniority points. Because dozens of candidates may score identical grades (e.g., a score of 100 or 95), Civil Service Law groups all individuals with the same score into the same rank. Under \u00a7 61, all candidates in the top three score bands are legally reachable. For instance, if List Rank 1 has 1 person, Rank 2 has 2 people, and Rank 3 has 15 people, all 18 people are technically reachable for appointment."
+      },
+      {
+        "heading": "3. The Life Cycle of an Eligible List: Canvass Letters to Expiration",
+        "content": "Once an eligible list is established by the Civil Service Department or Commission, it typically remains active for four (4) years (NYS Civil Service Law \u00a7 56), though commissions may extend them up to additional years or terminate after one year if fewer than three candidates remain. When an agency has an opening, it issues 'Canvass Letters' (by mail or electronic portal) to reachable candidates asking: 'Are you available and interested in this position at this salary and location?' Candidates MUST respond by the stated deadline (usually 10-15 business days). Declining, failing to respond, or stating salary requirements higher than the job allows the agency to move past your name to the next reachable candidate."
+      },
+      {
+        "heading": "4. Open-Competitive vs. Continuous Recruitment Examinations",
+        "content": "Traditional Open-Competitive exams are announced periodically (often once every 2 to 4 years), have a strict 3-to-4-week filing window, and test on a single Saturday or testing window. If you miss that filing window, you cannot take the exam until the next multi-year cycle. In contrast, Continuous Recruitment (CR) examinations accept applications on an ongoing basis with no deadline. Candidates are evaluated via standardized Training & Experience (T&E) questionnaires or periodic testing, and their names are continuously merged onto an active, rolling eligible list according to their score. Each candidate remains on the list for a fixed period (typically 1 to 2 years from their individual evaluation date)."
+      },
+      {
+        "heading": "5. The NY HELPS Revolution: Bypassing the Traditional Exam",
+        "content": "To combat severe post-pandemic public sector vacancies, the New York State Civil Service Commission authorized the New York Hiring for Emergency Limited Placement Statewide (NY HELPS) program. Running through June 30, 2028, NY HELPS temporarily waives competitive written examinations for thousands of entry- and mid-level titles (including Information Technology Specialist 1, 2, 3, and 4). Candidates apply directly to agencies based solely on meeting minimum education/experience qualifications. After one year of satisfactory permanent service, NY HELPS employees have their positions automatically converted into permanent competitive class status under Civil Service Law \u00a7 75\u2014granting full statutory tenure protections without ever sitting for a civil service exam."
+      }
+    ],
+    "key_definitions": [
+      {
+        "term": "Competitive Class",
+        "definition": "Civil service positions for which it is practicable to determine the merit and fitness of applicants by competitive examination."
+      },
+      {
+        "term": "Rule of Three (Civil Service Law \u00a7 61)",
+        "definition": "Statutory rule requiring appointments from competitive lists to be made from among the top three ranking persons on the certified eligible list willing to accept the post."
+      },
+      {
+        "term": "Eligible List",
+        "definition": "A roster of candidates who passed a civil service examination, ranked by final score plus statutory veteran/seniority credits."
+      },
+      {
+        "term": "Continuous Recruitment (CR)",
+        "definition": "An examination open for application continuously, allowing qualified candidates to be evaluated and merged onto an active list at any time."
+      },
+      {
+        "term": "Canvass Letter",
+        "definition": "An official inquiry sent by a hiring agency to list eligibles to determine their willingness to accept an appointment at a specific agency, location, and salary."
+      },
+      {
+        "term": "Provisional Appointment",
+        "definition": "A temporary appointment made to a competitive position when no viable eligible list exists. A provisional employee must pass the eventual competitive exam and score among the top three reachable candidates to keep the job."
+      },
+      {
+        "term": "NY HELPS",
+        "definition": "New York Hiring for Emergency Limited Placement Statewide. Emergency waiver program waiving civil service exams for thousands of state and local titles through June 30, 2028."
+      }
+    ],
+    "statutory_references": [
+      {
+        "citation": "NYS Constitution Art. V, \u00a7 6",
+        "url": "https://www.nysenate.gov/legislation/laws/CNS/A5S6",
+        "title": "Merit and Fitness Clause"
+      },
+      {
+        "citation": "NYS Civil Service Law \u00a7 61",
+        "url": "https://www.nysenate.gov/legislation/laws/CVP/61",
+        "title": "Appointment and Promotion (Rule of Three)"
+      },
+      {
+        "citation": "NYS Civil Service Law \u00a7 56",
+        "url": "https://www.nysenate.gov/legislation/laws/CVP/56",
+        "title": "Establishment and Duration of Eligible Lists"
+      },
+      {
+        "citation": "NYS Civil Service Law \u00a7 65",
+        "url": "https://www.nysenate.gov/legislation/laws/CVP/65",
+        "title": "Provisional Appointments"
+      }
+    ]
+  },
+  {
+    "topic_id": "CIVIC-EDU-02",
+    "week_number": 2,
+    "title": "How Local Governments Hire Software Developers",
+    "summary": "Understand the jurisdictional classes (Competitive, Non-Competitive, Exempt, Unclassified), public authorities, and contractor vehicles used to staff public technology teams.",
+    "sections": [
+      {
+        "heading": "1. The Four Jurisdictional Classes of Civil Service",
+        "content": "All civil service positions in New York State and local governments fall into one of four jurisdictional classes defined in Civil Service Law \u00a7 35-44: 1) Competitive Class (default; requires examination or NY HELPS waiver); 2) Non-Competitive Class (examinations not practicable; candidates must meet stated qualifications, e.g., specialized software architects or NYC IT Project Specialists); 3) Exempt Class (confidential or policy-making positions appointed at discretion); and 4) Labor Class (unskilled manual labor). In addition, higher education instructional staff and certain academic professionals fall into the Unclassified Service."
+      },
+      {
+        "heading": "2. Why Municipal Software Engineering Titles Vary",
+        "content": "Unlike the private sector where 'Software Engineer' is ubiquitous, government titles reflect legacy civil service classification standards. New York State ITS uses 'Information Technology Specialist' (ITS 1 = SG-14, ITS 2 = SG-18, ITS 3 = SG-23, ITS 4 = SG-25) with parenthetics like (Programming), (Database), or (Systems). New York City uses 'Computer Associate (Software)', 'Computer Specialist (Software)', and modern non-competitive titles like 'IT Project Specialist' and 'IT Infrastructure Engineer'. Nassau and Suffolk counties use 'Programmer Analyst', 'Senior Programmer Analyst', and 'Network & Systems Specialist'."
+      },
+      {
+        "heading": "3. Public Authorities: The Direct-Hire Path",
+        "content": "Public benefit corporations such as the Metropolitan Transportation Authority (MTA/LIRR), Port Authority of NY & NJ (PANYNJ), New York Power Authority (NYPA), and Brookhaven National Laboratory (BNL) operate outside traditional civil service commissions. They conduct direct recruitment using standard corporate job postings, applicant tracking systems (Workday, SuccessFactors), and technical coding interviews without civil service exam delays."
+      },
+      {
+        "heading": "4. IT Staff Augmentation: HBITS and PBITS Contractors",
+        "content": "State and local agencies frequently augment their internal software engineering teams using centralized backdrop contracts managed by NYS OGS. Hourly Based Information Technology Services (HBITS) contracts allow agencies to quickly retain software developers, data engineers, and DevOps specialists through approved staffing vendors at standardized billable rates. Many technologists transition from HBITS vendor placements into permanent civil service or NY HELPS appointments."
+      }
+    ],
+    "key_definitions": [
+      {
+        "term": "Non-Competitive Class",
+        "definition": "Positions where competitive examination is found not practicable, but candidates must meet minimum training and experience qualifications."
+      },
+      {
+        "term": "Unclassified Service",
+        "definition": "Civil service positions comprising elected officials, legislative officers, and academic/faculty/professional staff at SUNY and CUNY."
+      },
+      {
+        "term": "Public Benefit Corporation",
+        "definition": "A corporate entity created by the state legislature to construct or operate public infrastructure (e.g., MTA, PANYNJ) outside direct state agency constraints."
+      },
+      {
+        "term": "HBITS / PBITS",
+        "definition": "Hourly / Project Based Information Technology Services contracts established by NYS OGS for rapid IT consulting procurement."
+      }
+    ],
+    "statutory_references": [
+      {
+        "citation": "NYS Civil Service Law \u00a7 40-44",
+        "url": "https://www.nysenate.gov/legislation/laws/CVP/A3TBE",
+        "title": "Classified Service Jurisdictional Classes"
+      },
+      {
+        "citation": "NYS Public Authorities Law \u00a7 1260 et seq.",
+        "url": "https://www.nysenate.gov/legislation/laws/PAA",
+        "title": "Metropolitan Transportation Authority Act"
+      }
+    ]
+  },
+  {
+    "topic_id": "CIVIC-EDU-03",
+    "week_number": 3,
+    "title": "How Municipal Contracts and Tech Procurements Are Awarded",
+    "summary": "Understand IFBs, RFPs, discretionary purchasing thresholds, M/WBE & SDVOB goals, and how a solo developer or boutique consultancy can win public contracts.",
+    "sections": [
+      {
+        "heading": "1. Sealed Bids (IFB) vs. Competitive Proposals (RFP)",
+        "content": "Public procurement in New York is governed by State Finance Law \u00a7 163 (state agencies) and General Municipal Law \u00a7 103 (local governments). An Invitation for Bids (IFB) is used for standardized goods/commodities and must be awarded strictly to the lowest responsive and responsible bidder. A Request for Proposals (RFP) is used for complex services (like custom software development, cloud migration, or systems integration) where award is made based on 'Best Value'\u2014evaluating technical approach, past performance, security architecture, and cost."
+      },
+      {
+        "heading": "2. Discretionary Purchasing: The Small Business Fast Track",
+        "content": "Agencies are not required to conduct full competitive formal bids for small procurements. Under NYS State Finance Law \u00a7 163(6), state agencies may make discretionary purchases up to $50,000 (up to $85,000 for OGS centralized commodities) without formal competition. Even more powerful: state agencies may make discretionary purchases up to $750,000 to $1,500,000 when purchasing from certified Minority- and Women-Owned Business Enterprises (M/WBEs), Service-Disabled Veteran-Owned Businesses (SDVOBs), or NYS Small Businesses. NYC has an equivalent $1.5M M/WBE non-competitive threshold in PASSPort."
+      },
+      {
+        "heading": "3. The New York State Contract Reporter (NYSCR)",
+        "content": "By law (Economic Development Law Article 4-C), state agencies, authorities, and SUNY campuses must publish all procurement opportunities of $50,000 or greater in the New York State Contract Reporter (nyscr.ny.gov) at least 15 business days prior to the bid submission deadline. Registering an account is 100% free and allows vendors to receive daily automated alerts matching their NAICS/commodity codes."
+      }
+    ],
+    "key_definitions": [
+      {
+        "term": "Best Value",
+        "definition": "A procurement basis that optimizes quality, cost, and efficiency, rather than solely selecting the lowest dollar bid."
+      },
+      {
+        "term": "Discretionary Purchase",
+        "definition": "Purchases below statutory dollar thresholds made without formal competitive sealed bidding, often reserved for small businesses and M/WBEs."
+      },
+      {
+        "term": "Vendor Responsibility (VendRep / PASSPort)",
+        "definition": "A mandatory legal review assessing a vendor's financial integrity, legal compliance, and past operational performance before a government contract can be approved."
+      }
+    ],
+    "statutory_references": [
+      {
+        "citation": "NYS State Finance Law \u00a7 163",
+        "url": "https://www.nysenate.gov/legislation/laws/STF/163",
+        "title": "Purchasing Services and Technologies"
+      },
+      {
+        "citation": "NYS General Municipal Law \u00a7 103",
+        "url": "https://www.nysenate.gov/legislation/laws/GML/103",
+        "title": "Advertising for Bids; Letting of Contracts"
+      }
+    ]
+  },
+  {
+    "topic_id": "CIVIC-EDU-04",
+    "week_number": 4,
+    "title": "How Residents Participate in Public Meetings and Hearings",
+    "summary": "Master the New York State Open Meetings Law, 72-hour notice rules, 24-hour document disclosure mandates, and effective strategies for delivering 3-minute public testimony.",
+    "sections": [
+      {
+        "heading": "1. The Open Meetings Law (Public Officers Law Article 7)",
+        "content": "Enacted in 1976, the Open Meetings Law (OML) guarantees the public's right to attend, observe, and listen to the deliberations of public bodies\u2014including state boards, county legislatures, town boards, village trustees, and school boards. Under \u00a7 103, all meetings must be open to the public except for narrowly defined executive sessions (e.g. discussing ongoing litigation, collective bargaining, or employment discipline of a specific person)."
+      },
+      {
+        "heading": "2. Statutory Notice and Document Disclosure Deadlines",
+        "content": "Public bodies must comply with strict advance disclosure timelines: 1) Public Notice (\u00a7 104): If a meeting is scheduled at least one week in advance, public notice must be given to news media and conspicuously posted online at least 72 hours prior to the meeting. 2) Document Disclosure (\u00a7 103(e)): Records, proposed resolutions, or local laws scheduled to be discussed at an open meeting must, to the extent practicable, be posted on the public body's website at least 24 hours prior to the meeting. This 24-hour rule is critical for citizens to review proposed IT budgets or contracts before public debate."
+      },
+      {
+        "heading": "3. The Mechanics of Public Comment: The 3-Minute Rule",
+        "content": "While the Open Meetings Law guarantees the right to observe, local rules govern the 'Public Portion' or public comment period. Long Island Town Boards (Hempstead, Oyster Bay, Brookhaven, Huntington) and County Legislatures (Nassau and Suffolk) enforce a strict 3-minute limit per speaker. To speak, arrive 15 minutes before the meeting to submit a speaker card to the Town or Legislative Clerk. State your name, hamlet/town of residence, and structure your remarks into: 1) The issue; 2) The specific data or impact; and 3) The exact action requested of the board."
+      }
+    ],
+    "key_definitions": [
+      {
+        "term": "Public Body",
+        "definition": "An entity of two or more people performing a governmental function for the state or municipality, requiring a quorum to conduct public business."
+      },
+      {
+        "term": "Executive Session",
+        "definition": "A portion of an open meeting closed to the public, permitted only for eight specifically enumerated statutory subjects under POL \u00a7 105."
+      },
+      {
+        "term": "Quorum",
+        "definition": "A majority of the total voting members of a public body, legally required to convene an official meeting or conduct business."
+      }
+    ],
+    "statutory_references": [
+      {
+        "citation": "NYS Public Officers Law Article 7 (\u00a7\u00a7 100-111)",
+        "url": "https://www.nysenate.gov/legislation/laws/PBO/A7",
+        "title": "New York State Open Meetings Law"
+      },
+      {
+        "citation": "POL \u00a7 103(e)",
+        "url": "https://www.nysenate.gov/legislation/laws/PBO/103",
+        "title": "24-Hour Online Document Disclosure Requirement"
+      }
+    ]
+  },
+  {
+    "topic_id": "CIVIC-EDU-05",
+    "week_number": 5,
+    "title": "How to Read and Analyze a Local Government Budget",
+    "summary": "Demystify municipal fund accounting, the difference between Operating and Capital budgets, Personal Services vs. OTPS, and how to track public technology spending.",
+    "sections": [
+      {
+        "heading": "1. Fund Accounting: Operating vs. Capital Budgets",
+        "content": "Governments do not operate out of a single bank account. They use fund accounting: 1) Operating Budget (General Fund): Covers day-to-day annual recurring expenses such as civil service salaries, software subscription licenses, cloud hosting, and hardware maintenance. Funded by property taxes, sales taxes, and state aid. 2) Capital Budget (Capital Program): Covers long-term physical and technical assets (server infrastructure, fiber optic networks, emergency dispatch CAD/911 systems, major ERP replacements) financed via multi-year municipal bonds."
+      },
+      {
+        "heading": "2. Reading the Line Items: PS vs. OTPS",
+        "content": "Every municipal department budget is divided into two primary categories: 1) Personal Services (PS): Salaries, overtime, holiday pay, and longevity bonuses for civil service personnel. 2) Other Than Personal Services (OTPS): Contracts, equipment, software licenses, travel, and consulting fees. When looking for public tech contracts, search OTPS account codes labeled 'Data Processing Equipment', 'Contractual Services', or 'Computer Software'."
+      },
+      {
+        "heading": "3. The Annual Budget Cycle",
+        "content": "On Long Island, county executives (Nassau/Suffolk) and town supervisors submit tentative proposed budgets in September/October. Legislative committees hold public hearings in October/November where department commissioners (including the Chief Information Officer) defend their budget requests. Budgets are voted on and finalized by November/December for the fiscal year beginning January 1. This October/November window is when citizens can directly question IT investments."
+      }
+    ],
+    "key_definitions": [
+      {
+        "term": "General Fund",
+        "definition": "The primary operating fund of a government entity covering general administrative, police, and operational costs."
+      },
+      {
+        "term": "Capital Improvement Program (CIP)",
+        "definition": "A multi-year plan (often 3 to 5 years) detailing upcoming major capital expenditures and debt financing."
+      },
+      {
+        "term": "Encumbrance",
+        "definition": "Funds set aside or committed in a budget for a specific purchase order or contract before the payment is actually disbursed."
+      }
+    ],
+    "statutory_references": [
+      {
+        "citation": "NYS County Law Article 7",
+        "url": "https://www.nysenate.gov/legislation/laws/CNT/A7",
+        "title": "County Finance and Budgeting"
+      },
+      {
+        "citation": "NYS Town Law Article 8",
+        "url": "https://www.nysenate.gov/legislation/laws/TWN/A8",
+        "title": "Town Finances"
+      }
+    ]
+  },
+  {
+    "topic_id": "CIVIC-EDU-06",
+    "week_number": 6,
+    "title": "How Freedom of Information Law (FOIL) Requests Work",
+    "summary": "Learn how to use Public Officers Law Article 6 to inspect public records, obtain machine-readable datasets and database schemas, understand statutory deadlines, and appeal denials.",
+    "sections": [
+      {
+        "heading": "1. Presumption of Access (Public Officers Law Article 6)",
+        "content": "Under New York's Freedom of Information Law (FOIL), all records of government agencies are presumptively available for public inspection and copying, unless they fall within narrow statutory exemptions (e.g., personal privacy, trade secrets, ongoing criminal investigations, or critical cybersecurity vulnerability information under \u00a7 87(2)(i))."
+      },
+      {
+        "heading": "2. Strict Statutory Timelines: 5 Days to Acknowledge",
+        "content": "When an agency receives a written FOIL request, Civil Service and Public Officers Law \u00a7 89(3)(a) mandates that within five (5) business days, the agency must either: 1) Grant the records; 2) Deny the request in writing stating the statutory reason; or 3) Issue a written acknowledgment providing an approximate date (ordinarily within 20 business days) when the records will be granted or denied. An agency cannot indefinitely delay responses; unreasonable delays constitute a 'constructive denial'."
+      },
+      {
+        "heading": "3. Requesting Code, Data, and SQL Dumps Under FOIL",
+        "content": "Under \u00a7 89(3)(a), if an agency maintains records in an electronic database, it must provide them in the electronic medium in which they are kept, including CSV, JSON, or database exports. Technologists can FOIL relational database schemas, contract deliverables, public software specifications, and anonymized incident logs. Agencies cannot charge research fees; they may only charge the actual cost of storage media or programmer time if an extraction requires over 2 hours of custom programming."
+      },
+      {
+        "heading": "4. The Administrative Appeal Process",
+        "content": "If an agency denies access or fails to respond within statutory deadlines, you have thirty (30) days to file an administrative FOIL Appeal with the agency's designated Appeals Officer. The Appeals Officer has ten (10) business days to either grant the record or fully explain the denial in writing, while simultaneously forwarding copies to the NYS Committee on Open Government (COOG). If the appeal is denied, citizens can file an Article 78 proceeding in NYS Supreme Court, where judges can award attorney fees if the agency lacked a reasonable basis in law for withholding the records."
+      }
+    ],
+    "key_definitions": [
+      {
+        "term": "FOIL Record",
+        "definition": "Any information kept, held, filed, produced, or reproduced by, with, or for an agency in any physical or electronic form."
+      },
+      {
+        "term": "Constructive Denial",
+        "definition": "An agency's failure to adhere to statutory FOIL deadlines (5-day acknowledgment or 20-day determination), giving the requester the immediate right to file an administrative appeal."
+      },
+      {
+        "term": "Committee on Open Government (COOG)",
+        "definition": "A state advisory body within the NYS Department of State that issues formal advisory opinions interpreting FOIL and the Open Meetings Law."
+      }
+    ],
+    "statutory_references": [
+      {
+        "citation": "NYS Public Officers Law Article 6 (\u00a7\u00a7 84-90)",
+        "url": "https://www.nysenate.gov/legislation/laws/PBO/A6",
+        "title": "New York State Freedom of Information Law (FOIL)"
+      },
+      {
+        "citation": "POL \u00a7 89(3)",
+        "url": "https://www.nysenate.gov/legislation/laws/PBO/89",
+        "title": "Agency Response Timelines and Electronic Records"
+      }
+    ]
+  },
+  {
+    "topic_id": "CIVIC-EDU-07",
+    "week_number": 7,
+    "title": "How State and Local Governments Divide Responsibilities",
+    "summary": "Understand New York Home Rule, the layered municipal hierarchy on Long Island (State -> County -> Town -> Village -> Special District), and which agency actually controls your services.",
+    "sections": [
+      {
+        "heading": "1. New York Home Rule and The Layered Long Island Hierarchy",
+        "content": "New York is a strong 'Home Rule' state governed by Article IX of the State Constitution and the Municipal Home Rule Law. Power is distributed across overlapping jurisdictions: 1) State Government: Laws, highways, civil service rules, state police, environmental regulation, higher education (SUNY). 2) Counties (Nassau/Suffolk): Health departments, county police, social services, transit, county civil service commissions, community colleges, property assessment records. 3) Towns (e.g. Hempstead, Oyster Bay, Brookhaven): Zoning, building codes, sanitation/refuse, parks, beaches, local roads, storm water. 4) Incorporated Villages (e.g. Garden City, Rockville Centre, Patchogue): Local zoning, village police, local street maintenance. 5) Special Districts & School Districts: Water districts (SCWA), fire districts, library districts, and independent public school boards."
+      },
+      {
+        "heading": "2. Navigating the Jurisdictional Quagmire",
+        "content": "A Long Island resident simultaneously lives in New York State, either Nassau or Suffolk County, one of 13 Towns, potentially an incorporated village, an independent school district, a fire district, and a water authority. Understanding who controls what prevents wasted effort: A pothole on Sunrise Highway is NYS DOT; on Merrick Road is Nassau County DPW; on a residential neighborhood street is the Town or Village highway department. Similarly, civil service exams for school district IT jobs in Nassau are run by the Nassau County Civil Service Commission; in Suffolk, by the Suffolk County Civil Service Department."
+      },
+      {
+        "heading": "3. Where Software Engineering Fits Across the Layers",
+        "content": "State agencies (ITS) run centralized statewide databases (Medicaid, DMV, Unemployment). Counties maintain emergency dispatch (911 CAD), real property parcel mapping (GIS), and public assistance systems. Towns run permitting portals (Accela, OpenGov), property tax collection, and parks reservation systems. Authorities (MTA, SCWA) run industrial IoT, SCADA, train tracking APIs, and utility billing architectures. Each tier has independent tech budgets and recruitment pathways."
+      }
+    ],
+    "key_definitions": [
+      {
+        "term": "Home Rule",
+        "definition": "Constitutional authority granted to local governments to adopt local laws relating to their property, affairs, and government, provided they do not conflict with general state laws."
+      },
+      {
+        "term": "Special District",
+        "definition": "An independent local governmental unit created to provide a specific public service (e.g. fire protection, water distribution, sanitation) within a defined geographic boundary."
+      },
+      {
+        "term": "Incorporated Village",
+        "definition": "A municipal corporation formed within one or more towns to provide localized services and autonomous zoning control."
+      }
+    ],
+    "statutory_references": [
+      {
+        "citation": "NYS Constitution Article IX",
+        "url": "https://www.nysenate.gov/legislation/laws/CNS/A9",
+        "title": "Local Governments and Home Rule"
+      },
+      {
+        "citation": "NYS Municipal Home Rule Law",
+        "url": "https://www.nysenate.gov/legislation/laws/MHR",
+        "title": "Municipal Home Rule Law"
+      }
+    ]
+  }
+]

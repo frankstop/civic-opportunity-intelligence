@@ -1,0 +1,1137 @@
+[
+  {
+    "code": "AL",
+    "name": "Alabama",
+    "portal": "https://www.personnel.alabama.gov/",
+    "agency": "State Personnel Department",
+    "merit_model": "Competitive Examination & Merit Register",
+    "certification_rule": "Rule of 10 for certification",
+    "it_job_series": "IT Systems Specialist I-IV, Senior IT Specialist, Programmer/Analyst I-III",
+    "residency_policy": "No general state residency requirement to apply; preference may be given to residents for certain positions.",
+    "major_local_portals": [
+      {
+        "name": "Jefferson County (Birmingham)",
+        "url": "https://www.jobsquest.org/"
+      },
+      {
+        "name": "City of Mobile",
+        "url": "https://www.cityofmobile.org/services/employment/"
+      },
+      {
+        "name": "City of Huntsville",
+        "url": "https://www.governmentjobs.com/careers/huntsville"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Alabama&keyword=software%20developer"
+  },
+  {
+    "code": "AK",
+    "name": "Alaska",
+    "portal": "https://www.governmentjobs.com/careers/alaska",
+    "agency": "Workplace Alaska",
+    "merit_model": "Decentralized Workplace Alaska (Classification & Minimum Qualifications)",
+    "certification_rule": "Open applicant pools directly referred to hiring managers",
+    "it_job_series": "Data Processing Manager, Micro/Network Specialist I-II, Analyst/Programmer I-V",
+    "residency_policy": "Alaska resident preference applies under AS 39.25.150 for competitive positions.",
+    "major_local_portals": [
+      {
+        "name": "Municipality of Anchorage",
+        "url": "https://www.governmentjobs.com/careers/moa"
+      },
+      {
+        "name": "Fairbanks North Star Borough",
+        "url": "https://www.governmentjobs.com/careers/fnsb"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Alaska&keyword=software%20developer"
+  },
+  {
+    "code": "AZ",
+    "name": "Arizona",
+    "portal": "https://www.azstatejobs.gov/",
+    "agency": "Arizona Department of Administration",
+    "merit_model": "At-Will State Personnel System (State Openings on AZStateJobs)",
+    "certification_rule": "Direct qualification screening and agency interviews (No civil service exam)",
+    "it_job_series": "Information Technology Specialist I-IV, Software Engineer, IT Systems Analyst",
+    "residency_policy": "No state residency requirement; out-of-state applicants welcome.",
+    "major_local_portals": [
+      {
+        "name": "Maricopa County (Phoenix)",
+        "url": "https://www.governmentjobs.com/careers/maricopa"
+      },
+      {
+        "name": "City of Phoenix",
+        "url": "https://www.phoenix.gov/hr/current-jobs"
+      },
+      {
+        "name": "Pima County (Tucson)",
+        "url": "https://www.governmentjobs.com/careers/pima"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Arizona&keyword=software%20developer"
+  },
+  {
+    "code": "AR",
+    "name": "Arkansas",
+    "portal": "https://arcareers.arkansas.gov/",
+    "agency": "Office of Personnel Management",
+    "merit_model": "Central Uniform Classification & Compensation",
+    "certification_rule": "Minimum qualification review with agency hiring discretion",
+    "it_job_series": "Information Technology Specialist, Computer Support Specialist, Systems Programmer",
+    "residency_policy": "No residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "City of Little Rock",
+        "url": "https://www.governmentjobs.com/careers/littlerock"
+      },
+      {
+        "name": "Pulaski County",
+        "url": "https://pulaskicounty.net/employment/"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Arkansas&keyword=software%20developer"
+  },
+  {
+    "code": "CA",
+    "name": "California",
+    "portal": "https://www.calcareers.ca.gov/",
+    "agency": "CalHR (CalCareers)",
+    "merit_model": "CalHR Merit System (Online Examination / Training & Experience Assessments)",
+    "certification_rule": "Rule of Three Ranks (Candidates scoring in Ranks 1-3 are reachable for hire)",
+    "it_job_series": "Information Technology Technician, IT Associate, IT Specialist I/II/III, IT Supervisor I/II, IT Manager I/II",
+    "residency_policy": "CalHR requires California residency for state civil service telework/remote positions; out-of-state applicants may apply but must relocate upon appointment.",
+    "major_local_portals": [
+      {
+        "name": "County of Los Angeles",
+        "url": "https://www.governmentjobs.com/careers/lacounty"
+      },
+      {
+        "name": "City & County of San Francisco",
+        "url": "https://careers.sf.gov/"
+      },
+      {
+        "name": "Santa Clara County (Silicon Valley)",
+        "url": "https://www.governmentjobs.com/careers/santaclara"
+      },
+      {
+        "name": "City of San Diego",
+        "url": "https://www.governmentjobs.com/careers/sandiego"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=California&keyword=software%20developer"
+  },
+  {
+    "code": "CO",
+    "name": "Colorado",
+    "portal": "https://www.governmentjobs.com/careers/colorado",
+    "agency": "Colorado Department of Personnel & Administration",
+    "merit_model": "Colorado Constitution Merit System (Comparative Analysis / Testing)",
+    "certification_rule": "Top 6 applicants (or all tied) referred to hiring supervisor",
+    "it_job_series": "IT Professional I-VI, IT Technical Specialist, Systems Administrator",
+    "residency_policy": "Colorado residency is required for state jobs unless non-residency waiver is explicitly granted.",
+    "major_local_portals": [
+      {
+        "name": "City and County of Denver",
+        "url": "https://www.governmentjobs.com/careers/denver"
+      },
+      {
+        "name": "Arapahoe County",
+        "url": "https://www.governmentjobs.com/careers/arapahoe"
+      },
+      {
+        "name": "El Paso County (Colorado Springs)",
+        "url": "https://www.governmentjobs.com/careers/elpasoco"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Colorado&keyword=software%20developer"
+  },
+  {
+    "code": "CT",
+    "name": "Connecticut",
+    "portal": "https://www.jobapscloud.com/CT/",
+    "agency": "Department of Administrative Services",
+    "merit_model": "CT DAS State Exam & JobAps Cloud Merit System",
+    "certification_rule": "Candidates qualify via Experience & Training (E&T) examinations to join candidate lists",
+    "it_job_series": "Information Technology Analyst 1, 2, 3; Information Technology Subject Matter Expert; IT Supervisor",
+    "residency_policy": "No Connecticut residency requirement to apply. Neighboring NY (Long Island / NYC / Westchester) residents actively commute or work hybrid.",
+    "major_local_portals": [
+      {
+        "name": "City of Stamford",
+        "url": "https://www.governmentjobs.com/careers/stamfordct"
+      },
+      {
+        "name": "City of Bridgeport",
+        "url": "https://www.bridgeportct.gov/careers"
+      },
+      {
+        "name": "City of New Haven",
+        "url": "https://www.newhavenct.gov/gov/depts/hr/job_postings.htm"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Connecticut&keyword=software%20developer"
+  },
+  {
+    "code": "DE",
+    "name": "Delaware",
+    "portal": "https://statejobs.delaware.gov/",
+    "agency": "Department of Human Resources",
+    "merit_model": "Delaware Merit System (DHR Training & Experience Rating)",
+    "certification_rule": "Top 15 ranking candidates referred",
+    "it_job_series": "Application Support Specialist I-III, Senior Systems Analyst, Database Administrator",
+    "residency_policy": "Delaware residency is not required at time of application.",
+    "major_local_portals": [
+      {
+        "name": "New Castle County",
+        "url": "https://www.governmentjobs.com/careers/nccde"
+      },
+      {
+        "name": "City of Wilmington",
+        "url": "https://www.wilmingtonde.gov/government/city-jobs"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Delaware&keyword=software%20developer"
+  },
+  {
+    "code": "DC",
+    "name": "District of Columbia",
+    "portal": "https://dchr.dc.gov/",
+    "agency": "DC Department of Human Resources",
+    "merit_model": "District Personnel System (DCHR Career Service & Management Supervisory Service)",
+    "certification_rule": "Non-competitive and competitive merit ratings with District Resident Preference (10 points)",
+    "it_job_series": "IT Specialist (Data/Apps/Security/Network) CS-2210-09 through 14",
+    "residency_policy": "10-point preference for DC residents; certain senior appointees subject to DC residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "DC Government Careers (DCHR)",
+        "url": "https://careers.dc.gov/"
+      },
+      {
+        "name": "DC Water",
+        "url": "https://www.dcwater.com/careers"
+      },
+      {
+        "name": "Washington Metropolitan Area Transit Authority (WMATA)",
+        "url": "https://www.wmata.com/about/careers/"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=District of Columbia&keyword=software%20developer"
+  },
+  {
+    "code": "FL",
+    "name": "Florida",
+    "portal": "https://jobs.myflorida.com/",
+    "agency": "People First / Department of Management Services",
+    "merit_model": "Florida People First System (Selected Exempt Service & Career Service)",
+    "certification_rule": "Direct agency recruitment based on knowledge, skills, and abilities (No civil service exam)",
+    "it_job_series": "Systems Programmer I-IV, Applications Developer, Database Analyst, Computer Operations Specialist",
+    "residency_policy": "No Florida residency requirement to apply; out-of-state remote/hybrid positions subject to individual agency policy.",
+    "major_local_portals": [
+      {
+        "name": "Miami-Dade County",
+        "url": "https://www.miamidade.gov/global/humanresources/jobs/home.page"
+      },
+      {
+        "name": "Orange County (Orlando)",
+        "url": "https://www.governmentjobs.com/careers/orangecountyfl"
+      },
+      {
+        "name": "Hillsborough County (Tampa)",
+        "url": "https://www.governmentjobs.com/careers/hillsborough"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Florida&keyword=software%20developer"
+  },
+  {
+    "code": "GA",
+    "name": "Georgia",
+    "portal": "https://careers.georgia.gov/",
+    "agency": "Team Georgia Careers",
+    "merit_model": "Team Georgia Careers (At-will merit-based hiring across independent agencies)",
+    "certification_rule": "Direct application screening and structured interviews",
+    "it_job_series": "IT Systems Support Professional 1-3, Application Developer 1-3, Database Administrator 1-3",
+    "residency_policy": "No residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "Fulton County (Atlanta)",
+        "url": "https://www.governmentjobs.com/careers/fulton"
+      },
+      {
+        "name": "City of Atlanta",
+        "url": "https://www.atlantaga.gov/government/departments/human-resources/careers"
+      },
+      {
+        "name": "Gwinnett County",
+        "url": "https://www.governmentjobs.com/careers/gwinnett"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Georgia&keyword=software%20developer"
+  },
+  {
+    "code": "HI",
+    "name": "Hawaii",
+    "portal": "https://www.governmentjobs.com/careers/hawaii",
+    "agency": "Department of Human Resources Development",
+    "merit_model": "Hawaii DHRD Merit System (Training & Experience Evaluations)",
+    "certification_rule": "Top 5 available candidates certified to appointing authority",
+    "it_job_series": "Information Technology Specialist I-VI, Computer Programmer I-IV",
+    "residency_policy": "Hawaii residency required under HRS \u00a7 78-1, but often waived for hard-to-fill IT specialties.",
+    "major_local_portals": [
+      {
+        "name": "City and County of Honolulu",
+        "url": "https://www.governmentjobs.com/careers/honolulu"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Hawaii&keyword=software%20developer"
+  },
+  {
+    "code": "ID",
+    "name": "Idaho",
+    "portal": "https://dhr.idaho.gov/",
+    "agency": "Division of Human Resources",
+    "merit_model": "Idaho Division of Human Resources Merit Exam & Register",
+    "certification_rule": "Top 25 ranking applicants certified to hiring agency",
+    "it_job_series": "IT Systems Analyst, IT Software Engineer, IT Systems Integration Specialist",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "Ada County (Boise)",
+        "url": "https://adacounty.id.gov/human-resources/jobs/"
+      },
+      {
+        "name": "City of Boise",
+        "url": "https://www.governmentjobs.com/careers/cityofboise"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Idaho&keyword=software%20developer"
+  },
+  {
+    "code": "IL",
+    "name": "Illinois",
+    "portal": "https://work.illinois.gov/",
+    "agency": "Department of Central Management Services",
+    "merit_model": "Illinois CMS Merit System (Work.Illinois.gov)",
+    "certification_rule": "Grade bands (A, B, C) based on electronic credential assessment; veterans and Grade A certified first",
+    "it_job_series": "Information Technology Specialist I-III, Information Systems Analyst I-II, Programmer Analyst",
+    "residency_policy": "Illinois residency required within 6 months of appointment unless waived for specialized IT roles.",
+    "major_local_portals": [
+      {
+        "name": "Cook County (Chicago)",
+        "url": "https://cookcountyil.taleo.net/careersection/200/jobsearch.ftl"
+      },
+      {
+        "name": "City of Chicago",
+        "url": "https://www.chicago.gov/city/en/depts/dhr/provdrs/emp.html"
+      },
+      {
+        "name": "DuPage County",
+        "url": "https://www.dupagecounty.gov/careers/"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Illinois&keyword=software%20developer"
+  },
+  {
+    "code": "IN",
+    "name": "Indiana",
+    "portal": "https://workforindiana.in.gov/",
+    "agency": "Indiana State Personnel Department",
+    "merit_model": "Indiana State Personnel Department (WorkforIndiana / SAP SuccessFactors)",
+    "certification_rule": "Direct screening based on minimum qualifications and competency interviews",
+    "it_job_series": "Systems Analyst, Software Engineer, Senior Database Analyst, Network Engineer",
+    "residency_policy": "No residency requirement; hybrid/remote work subject to agency agreement.",
+    "major_local_portals": [
+      {
+        "name": "City of Indianapolis / Marion County",
+        "url": "https://www.governmentjobs.com/careers/indianapolis"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Indiana&keyword=software%20developer"
+  },
+  {
+    "code": "IA",
+    "name": "Iowa",
+    "portal": "https://www.governmentjobs.com/careers/iowa",
+    "agency": "Department of Administrative Services",
+    "merit_model": "Iowa DAS Merit System (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Eligible lists formed through minimum qualification score matching",
+    "it_job_series": "Information Technology Specialist 1-5, Software Developer, Systems Analyst",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "Polk County (Des Moines)",
+        "url": "https://www.governmentjobs.com/careers/polkcountyiowa"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Iowa&keyword=software%20developer"
+  },
+  {
+    "code": "KS",
+    "name": "Kansas",
+    "portal": "https://jobs.ks.gov/",
+    "agency": "Office of Personnel Services",
+    "merit_model": "Kansas State Employee Service (State of Kansas Job Board)",
+    "certification_rule": "Agency-driven recruitment with veteran's preference",
+    "it_job_series": "Applications Developer, Systems Administrator, Technology Support Consultant",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "Johnson County",
+        "url": "https://www.governmentjobs.com/careers/jocogov"
+      },
+      {
+        "name": "City of Wichita",
+        "url": "https://www.governmentjobs.com/careers/wichita"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Kansas&keyword=software%20developer"
+  },
+  {
+    "code": "KY",
+    "name": "Kentucky",
+    "portal": "https://careers.ky.gov/",
+    "agency": "Personnel Cabinet",
+    "merit_model": "Kentucky Personnel Cabinet (Merit System / Career Opportunities System)",
+    "certification_rule": "Top 5 certified applicants referred to hiring authority",
+    "it_job_series": "Information Technology Applications Analyst, Database Administrator, Systems Engineer",
+    "residency_policy": "Preference given to Kentucky residents; non-residents considered if insufficient qualified residents.",
+    "major_local_portals": [
+      {
+        "name": "Louisville Metro Government",
+        "url": "https://www.governmentjobs.com/careers/louisvilleky"
+      },
+      {
+        "name": "Lexington-Fayette Urban County",
+        "url": "https://www.governmentjobs.com/careers/lexingtonky"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Kentucky&keyword=software%20developer"
+  },
+  {
+    "code": "LA",
+    "name": "Louisiana",
+    "portal": "https://www.governmentjobs.com/careers/louisiana",
+    "agency": "State Civil Service",
+    "merit_model": "Louisiana State Civil Service (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Civil service testing or professional experience screening; Rule of Top 5 grade bands",
+    "it_job_series": "IT Technical Support Specialist 1-3, IT Applications Consultant, IT Database Administrator",
+    "residency_policy": "No general state residency requirement to take civil service exams.",
+    "major_local_portals": [
+      {
+        "name": "City of New Orleans",
+        "url": "https://www.governmentjobs.com/careers/neworleans"
+      },
+      {
+        "name": "East Baton Rouge Parish",
+        "url": "https://www.governmentjobs.com/careers/brla"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Louisiana&keyword=software%20developer"
+  },
+  {
+    "code": "ME",
+    "name": "Maine",
+    "portal": "https://www.maine.gov/bhr/state-jobs",
+    "agency": "Bureau of Human Resources",
+    "merit_model": "Maine Bureau of Human Resources (Direct Application & Civil Service Registers)",
+    "certification_rule": "Register scoring based on Training & Experience evaluations",
+    "it_job_series": "Computer Programmer, Systems Analyst, Database Administrator, Public Health Informatics",
+    "residency_policy": "No residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "City of Portland",
+        "url": "https://www.portlandmaine.gov/Jobs.aspx"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Maine&keyword=software%20developer"
+  },
+  {
+    "code": "MD",
+    "name": "Maryland",
+    "portal": "https://www.jobapscloud.com/MD/",
+    "agency": "Department of Budget & Management",
+    "merit_model": "Maryland State Personnel Management System (JobAps Cloud)",
+    "certification_rule": "Best Qualified / Better Qualified / Qualified category banding",
+    "it_job_series": "IT Functional Analyst I-III, IT Systems Technical Specialist, Computer Network Specialist",
+    "residency_policy": "No residency requirement; regional DC/MD/VA commuters common.",
+    "major_local_portals": [
+      {
+        "name": "Montgomery County",
+        "url": "https://www.montgomerycountymd.gov/HR/recruitment/MCGEO.html"
+      },
+      {
+        "name": "Baltimore County",
+        "url": "https://www.governmentjobs.com/careers/baltimorecounty"
+      },
+      {
+        "name": "City of Baltimore",
+        "url": "https://www.governmentjobs.com/careers/baltimorecity"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Maryland&keyword=software%20developer"
+  },
+  {
+    "code": "MA",
+    "name": "Massachusetts",
+    "portal": "https://www.mass.gov/topics/careers-with-the-commonwealth",
+    "agency": "Human Resources Division (MassCareers)",
+    "merit_model": "Massachusetts Human Resources Division (MassCareers / Taleo)",
+    "certification_rule": "State agency positions are largely direct-hire; Municipal police/fire remain civil service exam",
+    "it_job_series": "Software Developer I-IV, EDP Systems Analyst I-IV, Database Specialist, IT Project Manager",
+    "residency_policy": "No general residency requirement for state positions; out-of-state candidates may apply.",
+    "major_local_portals": [
+      {
+        "name": "City of Boston",
+        "url": "https://www.boston.gov/departments/human-resources/career-opportunities"
+      },
+      {
+        "name": "City of Worcester",
+        "url": "https://www.worcesterma.gov/human-resources/employment-opportunities"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Massachusetts&keyword=software%20developer"
+  },
+  {
+    "code": "MI",
+    "name": "Michigan",
+    "portal": "https://www.governmentjobs.com/careers/michigan",
+    "agency": "Michigan Civil Service Commission",
+    "merit_model": "Michigan Civil Service Commission (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Merit screening pools based on minimum education and experience; Rule of 3 bands",
+    "it_job_series": "Information Technology Programmer/Analyst 9-P11-12, IT Specialist 13, IT Project Manager",
+    "residency_policy": "No Michigan residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "Wayne County (Detroit)",
+        "url": "https://www.governmentjobs.com/careers/waynecounty"
+      },
+      {
+        "name": "City of Detroit",
+        "url": "https://www.governmentjobs.com/careers/detroit"
+      },
+      {
+        "name": "Oakland County",
+        "url": "https://www.governmentjobs.com/careers/oakgov"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Michigan&keyword=software%20developer"
+  },
+  {
+    "code": "MN",
+    "name": "Minnesota",
+    "portal": "https://mn.gov/mmb/careers/",
+    "agency": "Minnesota Management & Budget",
+    "merit_model": "Minnesota Management & Budget (State Careers Portal)",
+    "certification_rule": "Merit-based resume matching against job-specific qualifications",
+    "it_job_series": "Information Technology Specialist 1-5 (Software, Data, Network, Security options)",
+    "residency_policy": "No Minnesota residency requirement; out-of-state candidates eligible.",
+    "major_local_portals": [
+      {
+        "name": "Hennepin County (Minneapolis)",
+        "url": "https://www.governmentjobs.com/careers/hennepin"
+      },
+      {
+        "name": "City of Minneapolis",
+        "url": "https://www.governmentjobs.com/careers/cityofminneapolis"
+      },
+      {
+        "name": "Ramsey County (St. Paul)",
+        "url": "https://www.governmentjobs.com/careers/ramsey"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Minnesota&keyword=software%20developer"
+  },
+  {
+    "code": "MS",
+    "name": "Mississippi",
+    "portal": "https://www.mspb.ms.gov/",
+    "agency": "State Personnel Board",
+    "merit_model": "Mississippi State Personnel Board (MSPB Merit System)",
+    "certification_rule": "Minimum qualification eligibility lists",
+    "it_job_series": "Systems Programmer I-III, Network Specialist, Data Base Administrator",
+    "residency_policy": "No state residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Jackson",
+        "url": "https://www.jacksonms.gov/employment-opportunities/"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Mississippi&keyword=software%20developer"
+  },
+  {
+    "code": "MO",
+    "name": "Missouri",
+    "portal": "https://mocareers.mo.gov/",
+    "agency": "Office of Administration",
+    "merit_model": "Missouri MO Careers (Division of Personnel / Taleo)",
+    "certification_rule": "Merit-based qualification screening",
+    "it_job_series": "Computer Information Technologist I-III, Senior Systems Analyst, IT Project Manager",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "St. Louis County",
+        "url": "https://www.governmentjobs.com/careers/stlouisco"
+      },
+      {
+        "name": "City of Kansas City",
+        "url": "https://www.kcmo.gov/city-hall/departments/human-resources/careers"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Missouri&keyword=software%20developer"
+  },
+  {
+    "code": "MT",
+    "name": "Montana",
+    "portal": "https://statecareers.mt.gov/",
+    "agency": "State Human Resources Division",
+    "merit_model": "Montana State Human Resources (Direct Agency Recruitment)",
+    "certification_rule": "Direct applicant screening and interviews",
+    "it_job_series": "Computer Systems Analyst, Software Developer, Database Specialist",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Billings",
+        "url": "https://www.governmentjobs.com/careers/billingsmt"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Montana&keyword=software%20developer"
+  },
+  {
+    "code": "NE",
+    "name": "Nebraska",
+    "portal": "https://statejobs.nebraska.gov/",
+    "agency": "Department of Administrative Services",
+    "merit_model": "Nebraska State Personnel (Enterprise Jobs Portal)",
+    "certification_rule": "Minimum qualification matching; agency interviews",
+    "it_job_series": "IT Applications Developer, IT Data Systems Analyst, IT Infrastructure Support",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Omaha",
+        "url": "https://www.cityofomaha.org/human-resources/employment"
+      },
+      {
+        "name": "Douglas County",
+        "url": "https://www.governmentjobs.com/careers/douglascountyne"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Nebraska&keyword=software%20developer"
+  },
+  {
+    "code": "NV",
+    "name": "Nevada",
+    "portal": "https://hr.nv.gov/",
+    "agency": "Division of Human Resource Management",
+    "merit_model": "Nevada DHRM (SuccessFactors / NV Careers)",
+    "certification_rule": "Training & Experience ranking or written exams",
+    "it_job_series": "IT Professional I-IV, IT Technician I-VI, Business Process Analyst",
+    "residency_policy": "No Nevada residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "Clark County (Las Vegas)",
+        "url": "https://www.governmentjobs.com/careers/clarkcounty"
+      },
+      {
+        "name": "City of Las Vegas",
+        "url": "https://www.governmentjobs.com/careers/lasvegas"
+      },
+      {
+        "name": "Washoe County (Reno)",
+        "url": "https://www.governmentjobs.com/careers/washoecounty"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Nevada&keyword=software%20developer"
+  },
+  {
+    "code": "NH",
+    "name": "New Hampshire",
+    "portal": "https://www.das.nh.gov/jobsearch/",
+    "agency": "Division of Personnel",
+    "merit_model": "New Hampshire Division of Personnel (State Job Search)",
+    "certification_rule": "Minimum qualification certification to agency",
+    "it_job_series": "Programmer/Analyst, Systems Analyst, Database Administrator",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Manchester",
+        "url": "https://www.manchesternh.gov/Departments/Human-Resources/Employment"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=New Hampshire&keyword=software%20developer"
+  },
+  {
+    "code": "NJ",
+    "name": "New Jersey",
+    "portal": "https://www.nj.gov/csc/",
+    "agency": "Civil Service Commission",
+    "merit_model": "New Jersey Civil Service Commission (Title 11A / NJ CSC Online Application System)",
+    "certification_rule": "Rule of Three (Open-competitive and Promotional exam lists); Vet preference",
+    "it_job_series": "Software Development Specialist 1-3, Information Technology Specialist, Analyst Trainee, Network Administrator",
+    "residency_policy": "NJ First Act requires New Jersey residency within 365 days of appointment, but exemptions or waivers exist for hard-to-fill technical titles.",
+    "major_local_portals": [
+      {
+        "name": "City of Newark",
+        "url": "https://www.governmentjobs.com/careers/newarknj"
+      },
+      {
+        "name": "Jersey City",
+        "url": "https://www.jerseycitynj.gov/cityhall/HumanResources/employment"
+      },
+      {
+        "name": "County of Bergen",
+        "url": "https://www.co.bergen.nj.us/human-resources/job-opportunities"
+      },
+      {
+        "name": "Port Authority of NY & NJ",
+        "url": "https://www.jointheportauthority.com/"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=New Jersey&keyword=software%20developer"
+  },
+  {
+    "code": "NM",
+    "name": "New Mexico",
+    "portal": "https://www.spo.state.nm.us/",
+    "agency": "State Personnel Office",
+    "merit_model": "New Mexico State Personnel Office (NEOGOV / GovernmentJobs)",
+    "certification_rule": "Top 14 applicants referred based on qualification scoring",
+    "it_job_series": "IT Generalist I-III, IT End User Support, IT Developer, IT Database Administrator",
+    "residency_policy": "No residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "City of Albuquerque",
+        "url": "https://www.governmentjobs.com/careers/cabq"
+      },
+      {
+        "name": "Bernalillo County",
+        "url": "https://www.governmentjobs.com/careers/bernco"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=New Mexico&keyword=software%20developer"
+  },
+  {
+    "code": "NY",
+    "name": "New York",
+    "portal": "https://statejobs.ny.gov/",
+    "agency": "Department of Civil Service (StateJobsNY)",
+    "merit_model": "New York State Department of Civil Service (Civil Service Law \u00a7 61 Rule of Three + NY HELPS Exam Waiver)",
+    "certification_rule": "Rule of Three for competitive lists; NY HELPS waives exams for thousands of positions through June 30, 2028 with 1-year conversion to competitive tenure",
+    "it_job_series": "Information Technology Specialist 1-4 (SG-14 to SG-25), Information Technology Architect 1-3, Data Analyst 1-4, Business Systems Analyst 1-3",
+    "residency_policy": "New York State residency is NOT required for most state titles (unless mandated by statute); Nassau/Suffolk local competitive exams typically require 1-year county residency; NYC DCAS requires NYC residency within 90 days for certain titles, but tech titles frequently receive residency waivers.",
+    "major_local_portals": [
+      {
+        "name": "Nassau County Civil Service",
+        "url": "https://www.governmentjobs.com/careers/nassaucountyny"
+      },
+      {
+        "name": "Suffolk County Civil Service",
+        "url": "https://www.suffolkcountyny.gov/Departments/Civil-Service"
+      },
+      {
+        "name": "Jobs NYC (DCAS)",
+        "url": "https://cityjobs.nyc.gov/"
+      },
+      {
+        "name": "Westchester County",
+        "url": "https://www.governmentjobs.com/careers/westchester"
+      },
+      {
+        "name": "Erie County (Buffalo)",
+        "url": "https://www.erie.gov/employment/"
+      },
+      {
+        "name": "Monroe County (Rochester)",
+        "url": "https://www.governmentjobs.com/careers/monroecounty"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=New York&keyword=software%20developer"
+  },
+  {
+    "code": "NC",
+    "name": "North Carolina",
+    "portal": "https://www.governmentjobs.com/careers/northcarolina",
+    "agency": "Office of State Human Resources",
+    "merit_model": "North Carolina OSHR (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Merit-based qualification screening and agency hiring",
+    "it_job_series": "Technology Support Analyst/Specialist, Database Analyst, Software Systems Engineer",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "Mecklenburg County (Charlotte)",
+        "url": "https://www.governmentjobs.com/careers/mecklenburg"
+      },
+      {
+        "name": "Wake County (Raleigh)",
+        "url": "https://www.governmentjobs.com/careers/wakecounty"
+      },
+      {
+        "name": "City of Charlotte",
+        "url": "https://www.governmentjobs.com/careers/charlotte"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=North Carolina&keyword=software%20developer"
+  },
+  {
+    "code": "ND",
+    "name": "North Dakota",
+    "portal": "https://www.governmentjobs.com/careers/northdakota",
+    "agency": "Human Resource Management Services",
+    "merit_model": "North Dakota HRMS (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Direct qualification screening with veteran preference",
+    "it_job_series": "Software Developer I-III, Database Administrator, Systems Administrator",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Fargo",
+        "url": "https://www.governmentjobs.com/careers/fargond"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=North Dakota&keyword=software%20developer"
+  },
+  {
+    "code": "OH",
+    "name": "Ohio",
+    "portal": "https://careers.ohio.gov/",
+    "agency": "Department of Administrative Services",
+    "merit_model": "Ohio Department of Administrative Services (Careers.Ohio.gov / Taleo)",
+    "certification_rule": "Classified and unclassified merit positions",
+    "it_job_series": "Software Development Specialist 1-4, Database Administrator 1-3, Infrastructure Specialist 1-3",
+    "residency_policy": "No Ohio residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "Franklin County (Columbus)",
+        "url": "https://www.governmentjobs.com/careers/franklincounty"
+      },
+      {
+        "name": "Cuyahoga County (Cleveland)",
+        "url": "https://www.cuyahogacounty.gov/human-resources/careers"
+      },
+      {
+        "name": "City of Columbus",
+        "url": "https://www.governmentjobs.com/careers/columbus"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Ohio&keyword=software%20developer"
+  },
+  {
+    "code": "OK",
+    "name": "Oklahoma",
+    "portal": "https://oklahoma.gov/omes/services/human-capital-management.html",
+    "agency": "OMES Human Capital Management",
+    "merit_model": "Oklahoma OMES Human Capital Management (Workday Careers)",
+    "certification_rule": "Merit system examinations or training and experience qualification scoring",
+    "it_job_series": "Software Engineer I-IV, Systems Analyst I-IV, Database Analyst I-IV",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "Oklahoma City",
+        "url": "https://www.governmentjobs.com/careers/okc"
+      },
+      {
+        "name": "Tulsa County",
+        "url": "https://www.governmentjobs.com/careers/tulsacounty"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Oklahoma&keyword=software%20developer"
+  },
+  {
+    "code": "OR",
+    "name": "Oregon",
+    "portal": "https://www.oregon.gov/jobs",
+    "agency": "Department of Administrative Services",
+    "merit_model": "Oregon Department of Administrative Services (Workday Careers)",
+    "certification_rule": "Direct application screening based on minimum and desired attributes",
+    "it_job_series": "Information Systems Specialist 1-8 (covering Programming, Data, GIS, Systems)",
+    "residency_policy": "Oregon residency not required to apply; state supports hybrid and some out-of-state remote work.",
+    "major_local_portals": [
+      {
+        "name": "Multnomah County (Portland)",
+        "url": "https://www.governmentjobs.com/careers/multnomah"
+      },
+      {
+        "name": "City of Portland",
+        "url": "https://www.governmentjobs.com/careers/portlandor"
+      },
+      {
+        "name": "Washington County",
+        "url": "https://www.governmentjobs.com/careers/washco"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Oregon&keyword=software%20developer"
+  },
+  {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "portal": "https://www.employment.pa.gov/",
+    "agency": "Office of Administration",
+    "merit_model": "Pennsylvania Office of Administration (Employment.pa.gov / NEOGOV)",
+    "certification_rule": "Merit System Testing and Non-Exam Merit vacancies (T&E assessments)",
+    "it_job_series": "Applications Developer 1-3, Database Analyst 1-2, IT Generalist 1-2, Network Specialist 1-2",
+    "residency_policy": "Pennsylvania residency is required for merit system positions unless a non-residency waiver is explicitly advertised for hard-to-fill technical titles.",
+    "major_local_portals": [
+      {
+        "name": "City of Philadelphia",
+        "url": "https://www.phila.gov/jobs/"
+      },
+      {
+        "name": "Allegheny County (Pittsburgh)",
+        "url": "https://www.governmentjobs.com/careers/allegheny"
+      },
+      {
+        "name": "City of Pittsburgh",
+        "url": "https://www.governmentjobs.com/careers/pghpa"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Pennsylvania&keyword=software%20developer"
+  },
+  {
+    "code": "RI",
+    "name": "Rhode Island",
+    "portal": "https://www.governmentjobs.com/careers/rhodeisland",
+    "agency": "Division of Human Resources",
+    "merit_model": "Rhode Island Division of Human Resources (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Merit system lists created via competitive civil service exams and credential assessments",
+    "it_job_series": "Software Developer I-III, Systems Programmer, Database Administrator",
+    "residency_policy": "No Rhode Island residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Providence",
+        "url": "https://www.governmentjobs.com/careers/providenceri"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Rhode Island&keyword=software%20developer"
+  },
+  {
+    "code": "SC",
+    "name": "South Carolina",
+    "portal": "https://careers.sc.gov/",
+    "agency": "Division of State Human Resources",
+    "merit_model": "South Carolina Division of State Human Resources (Careers.sc.gov / NEOGOV)",
+    "certification_rule": "Direct agency recruitment based on position minimum training and experience",
+    "it_job_series": "Application Analyst I-III, Software Developer I-III, Database Administrator I-II",
+    "residency_policy": "No South Carolina residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "Greenville County",
+        "url": "https://www.governmentjobs.com/careers/greenvillecounty"
+      },
+      {
+        "name": "Charleston County",
+        "url": "https://www.governmentjobs.com/careers/charlestoncounty"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=South Carolina&keyword=software%20developer"
+  },
+  {
+    "code": "SD",
+    "name": "South Dakota",
+    "portal": "https://bhr.sd.gov/",
+    "agency": "Bureau of Human Resources",
+    "merit_model": "South Dakota Bureau of Human Resources (State Job Board)",
+    "certification_rule": "Direct applicant screening and interviews",
+    "it_job_series": "Computer Support Specialist, Systems Software Specialist, Database Coordinator",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Sioux Falls",
+        "url": "https://www.governmentjobs.com/careers/siouxfalls"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=South Dakota&keyword=software%20developer"
+  },
+  {
+    "code": "TN",
+    "name": "Tennessee",
+    "portal": "https://www.tn.gov/careers.html",
+    "agency": "Department of Human Resources",
+    "merit_model": "Tennessee Department of Human Resources (Edison Careers / Oracle)",
+    "certification_rule": "Preferred Service (merit-based competitive hiring) and Executive Service",
+    "it_job_series": "IT App Developer 1-3, IT Systems Admin 1-3, IT Database Admin 1-3",
+    "residency_policy": "No residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "Metropolitan Government of Nashville & Davidson County",
+        "url": "https://www.governmentjobs.com/careers/nashville"
+      },
+      {
+        "name": "Shelby County (Memphis)",
+        "url": "https://www.governmentjobs.com/careers/shelbycounty"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Tennessee&keyword=software%20developer"
+  },
+  {
+    "code": "TX",
+    "name": "Texas",
+    "portal": "https://capps.taleo.net/careersection/ex/jobsearch.ftl",
+    "agency": "CAPPS Central Jobs (no central civil service)",
+    "merit_model": "Texas CAPPS Central (Decentralized agency hiring; no statewide civil service commission)",
+    "certification_rule": "Direct agency application screening against state classification schedule",
+    "it_job_series": "Programmer I-V (Class 0241-0245), Systems Analyst I-VII (Class 0251-0257), Database Administrator I-V (Class 0231-0235), Data Analyst I-IV (Class 0650-0653)",
+    "residency_policy": "No Texas residency requirement to apply; out-of-state remote work allowed depending on agency policy.",
+    "major_local_portals": [
+      {
+        "name": "City of Austin",
+        "url": "https://www.austincityjobs.org/"
+      },
+      {
+        "name": "Harris County (Houston)",
+        "url": "https://www.governmentjobs.com/careers/harriscountytx"
+      },
+      {
+        "name": "City of Dallas",
+        "url": "https://www.governmentjobs.com/careers/dallas"
+      },
+      {
+        "name": "Travis County (Austin)",
+        "url": "https://www.governmentjobs.com/careers/traviscounty"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Texas&keyword=software%20developer"
+  },
+  {
+    "code": "UT",
+    "name": "Utah",
+    "portal": "https://www.governmentjobs.com/careers/utah",
+    "agency": "Division of Human Resource Management",
+    "merit_model": "Utah DHRM (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Merit principles via qualification scoring and agency interviews",
+    "it_job_series": "IT Systems Administrator I-III, Software Developer I-III, Database Manager",
+    "residency_policy": "No Utah residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "Salt Lake County",
+        "url": "https://www.governmentjobs.com/careers/slco"
+      },
+      {
+        "name": "State of Utah (DHRM)",
+        "url": "https://www.governmentjobs.com/careers/utah"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Utah&keyword=software%20developer"
+  },
+  {
+    "code": "VT",
+    "name": "Vermont",
+    "portal": "https://careers.vermont.gov/",
+    "agency": "Department of Human Resources",
+    "merit_model": "Vermont Department of Human Resources (SuccessFactors / VTHR)",
+    "certification_rule": "Merit screening by minimum qualifications",
+    "it_job_series": "IT Systems Developer I-IV, IT Database Administrator I-III, IT Systems Administrator",
+    "residency_policy": "No residency requirement.",
+    "major_local_portals": [
+      {
+        "name": "City of Burlington",
+        "url": "https://www.governmentjobs.com/careers/burlingtonvt"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Vermont&keyword=software%20developer"
+  },
+  {
+    "code": "VA",
+    "name": "Virginia",
+    "portal": "https://www.jobs.virginia.gov/",
+    "agency": "Department of Human Resource Management",
+    "merit_model": "Virginia DHRM (Jobs.Virginia.Gov / PageUp)",
+    "certification_rule": "Direct agency screening using Role Descriptions and Knowledge/Skills/Abilities",
+    "it_job_series": "Information Technology Specialist I-IV (Role Codes 39111-39114), Systems Developer, Database Analyst",
+    "residency_policy": "No Virginia residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "Fairfax County",
+        "url": "https://www.governmentjobs.com/careers/fairfaxcounty"
+      },
+      {
+        "name": "City of Virginia Beach",
+        "url": "https://www.governmentjobs.com/careers/vbgov"
+      },
+      {
+        "name": "Loudoun County",
+        "url": "https://www.governmentjobs.com/careers/loudoun"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Virginia&keyword=software%20developer"
+  },
+  {
+    "code": "WA",
+    "name": "Washington",
+    "portal": "https://careers.wa.gov/",
+    "agency": "Office of Financial Management",
+    "merit_model": "Washington State Office of Financial Management (Careers.wa.gov / NEOGOV)",
+    "certification_rule": "Direct agency screening with veteran preference; hard-to-fill IT titles expedited",
+    "it_job_series": "Information Technology - Application Development (Journey / Senior / Specialist), IT Data Management, IT Architecture",
+    "residency_policy": "Washington state residency is not required to apply; many state agencies offer remote telework agreements within specified approved states.",
+    "major_local_portals": [
+      {
+        "name": "King County (Seattle)",
+        "url": "https://www.governmentjobs.com/careers/kingcounty"
+      },
+      {
+        "name": "City of Seattle",
+        "url": "https://www.governmentjobs.com/careers/seattle"
+      },
+      {
+        "name": "Pierce County (Tacoma)",
+        "url": "https://www.governmentjobs.com/careers/piercecountywa"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Washington&keyword=software%20developer"
+  },
+  {
+    "code": "WV",
+    "name": "West Virginia",
+    "portal": "https://personnel.wv.gov/",
+    "agency": "Division of Personnel",
+    "merit_model": "West Virginia Division of Personnel (GovernmentJobs / NEOGOV)",
+    "certification_rule": "Classified Service examination registers and score rankings",
+    "it_job_series": "Information Systems Specialist 1-3, Programmer Analyst 1-2, Data Base Administrator",
+    "residency_policy": "West Virginia residency given preference; non-residents may apply for technical titles.",
+    "major_local_portals": [
+      {
+        "name": "City of Charleston",
+        "url": "https://www.governmentjobs.com/careers/charlestonwv"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=West Virginia&keyword=software%20developer"
+  },
+  {
+    "code": "WI",
+    "name": "Wisconsin",
+    "portal": "https://wisc.jobs/",
+    "agency": "Division of Personnel Management",
+    "merit_model": "Wisconsin Division of Personnel Management (Wisc.Jobs / JobAps Cloud)",
+    "certification_rule": "Civil service evaluations / Training & Experience assessments",
+    "it_job_series": "IS Specialist (Data, Systems, Applications, Network, Security), IS Supervisor",
+    "residency_policy": "No Wisconsin residency requirement to apply.",
+    "major_local_portals": [
+      {
+        "name": "Milwaukee County",
+        "url": "https://www.governmentjobs.com/careers/milwaukeecounty"
+      },
+      {
+        "name": "City of Milwaukee",
+        "url": "https://www.governmentjobs.com/careers/milwaukee"
+      },
+      {
+        "name": "Dane County (Madison)",
+        "url": "https://www.governmentjobs.com/careers/countyofdane"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Wisconsin&keyword=software%20developer"
+  },
+  {
+    "code": "WY",
+    "name": "Wyoming",
+    "portal": "https://www.governmentjobs.com/careers/wyoming",
+    "agency": "Human Resources Division",
+    "merit_model": "Wyoming Human Resources Division (GovernmentJobs / NEOGOV)",
+    "certification_rule": "State merit screening pools",
+    "it_job_series": "Computer Technology Specialist, Software Development Specialist, Systems Analyst",
+    "residency_policy": "Wyoming residency preference applied under state law; out-of-state considered.",
+    "major_local_portals": [
+      {
+        "name": "City of Cheyenne",
+        "url": "https://www.governmentjobs.com/careers/cheyenne"
+      }
+    ],
+    "neogov_search_url": "https://www.governmentjobs.com/jobs?location=Wyoming&keyword=software%20developer"
+  }
+]

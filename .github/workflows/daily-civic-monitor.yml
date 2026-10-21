@@ -1,0 +1,76 @@
+name: Daily Civic Opportunity Intelligence Monitor
+
+on:
+  schedule:
+    # Runs daily at 13:00 UTC (9:00 AM EDT / America/New_York)
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+    # Allows manual trigger at any time from GitHub UI
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "civic-monitor"
+  cancel-in-progress: false
+
+jobs:
+  monitor-and-update:
+    name: Run Daily Opportunity Audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Daily Civic Opportunity Audit
+        run: |
+          echo "Starting daily civic opportunity audit..."
+          python3 scripts/monitor.py
+          echo "Audit completed successfully."
+
+      - name: Commit and push updated intelligence data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ reports/
+          if git diff --staged --quiet; then
+            echo "No material data changes detected today."
+          else
+            git commit -m "chore(data): daily civic intelligence update [skip ci] ($(date -u +'%Y-%m-%d'))"
+            git push origin main
+          fi
+
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    needs: monitor-and-update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

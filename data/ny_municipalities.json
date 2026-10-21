@@ -1,0 +1,399 @@
+{
+  "nassau_county": {
+    "entity": "Nassau County Civil Service Commission",
+    "portal": "https://www.governmentjobs.com/careers/nassaucountyny",
+    "home_url": "https://www.nassaucivilservice.com/",
+    "address": "40 Main Street, Hempstead, NY 11550",
+    "rules": "Governed by Nassau County Civil Service Commission Rules. Standard open-competitive exams require one-year Nassau County residency prior to exam date. Application fee is $50.00 (waived for veterans, unemployed, public assistance). Continuous recruitment titles utilize Training & Experience evaluations.",
+    "it_titles": [
+      {
+        "title": "Programmer Analyst",
+        "level": "Competitive",
+        "exam_type": "Continuous / Periodic",
+        "typical_salary": "$65,000 - $85,000"
+      },
+      {
+        "title": "Senior Programmer Analyst",
+        "level": "Competitive",
+        "exam_type": "Promotional / Open",
+        "typical_salary": "$80,000 - $105,000"
+      },
+      {
+        "title": "Information Technology Specialist I / II / III",
+        "level": "Competitive",
+        "exam_type": "Continuous / T&E",
+        "typical_salary": "$60,000 - $95,000"
+      },
+      {
+        "title": "Computer Systems Analyst",
+        "level": "Competitive",
+        "exam_type": "Periodic Exam",
+        "typical_salary": "$75,000 - $100,000"
+      },
+      {
+        "title": "Database Specialist",
+        "level": "Competitive",
+        "exam_type": "Periodic Exam",
+        "typical_salary": "$85,000 - $115,000"
+      }
+    ],
+    "towns_and_cities": [
+      {
+        "name": "Town of Hempstead",
+        "type": "Town (Population ~790,000)",
+        "hall": "1 Washington Street, Hempstead, NY 11550",
+        "url": "https://hempsteadny.gov/",
+        "civil_service": "Administered by Nassau County Civil Service Commission"
+      },
+      {
+        "name": "Town of North Hempstead",
+        "type": "Town (Population ~237,000)",
+        "hall": "220 Plandome Road, Manhasset, NY 11030",
+        "url": "https://www.northhempsteadny.gov/",
+        "civil_service": "Administered by Nassau County Civil Service Commission"
+      },
+      {
+        "name": "Town of Oyster Bay",
+        "type": "Town (Population ~300,000)",
+        "hall": "54 Audrey Avenue, Oyster Bay, NY 11771",
+        "url": "https://oysterbaytown.com/",
+        "civil_service": "Administered by Nassau County Civil Service Commission"
+      },
+      {
+        "name": "City of Glen Cove",
+        "type": "City",
+        "hall": "9 Glen Street, Glen Cove, NY 11542",
+        "url": "https://glencoveny.gov/",
+        "civil_service": "Has municipal civil service commission affiliated with Nassau County"
+      },
+      {
+        "name": "City of Long Beach",
+        "type": "City",
+        "hall": "1 West Chester Street, Long Beach, NY 11561",
+        "url": "https://www.longbeachny.gov/",
+        "civil_service": "City of Long Beach Civil Service Commission"
+      }
+    ],
+    "major_villages": [
+      {
+        "name": "Inc. Village of Garden City",
+        "url": "https://www.gardencityny.net/"
+      },
+      {
+        "name": "Inc. Village of Freeport",
+        "url": "https://www.freeportny.gov/"
+      },
+      {
+        "name": "Inc. Village of Rockville Centre",
+        "url": "https://www.rvcny.gov/"
+      },
+      {
+        "name": "Inc. Village of Mineola",
+        "url": "https://www.mineola-ny.gov/"
+      },
+      {
+        "name": "Inc. Village of Valley Stream",
+        "url": "https://www.valleystreamny.gov/"
+      },
+      {
+        "name": "Inc. Village of Great Neck",
+        "url": "https://www.greatneckvillage.org/"
+      }
+    ],
+    "educational_entities": [
+      {
+        "name": "Nassau BOCES",
+        "url": "https://www.nassauboces.org/",
+        "job_portal": "https://www.olasjobs.org/nassau-boces"
+      },
+      {
+        "name": "Nassau Community College",
+        "url": "https://www.ncc.edu/",
+        "job_portal": "https://ncc.edu/about/employment/"
+      }
+    ]
+  },
+  "suffolk_county": {
+    "entity": "Suffolk County Department of Civil Service",
+    "portal": "https://apps2.suffolkcountyny.gov/civilservice/efile/default.aspx",
+    "home_url": "https://www.suffolkcountyny.gov/Departments/Civil-Service",
+    "workday_portal": "https://suffolkcountyny.wd1.myworkdayjobs.com/Suffolkcounty1",
+    "address": "North County Complex, 725 Veterans Memorial Highway, Building 158, Hauppauge, NY 11788",
+    "rules": "Governed by Suffolk County Civil Service Rules. Open-competitive examinations require Suffolk County residency for at least 30 to 90 days (and sometimes 1 year) prior to date of exam, unless residency is waived. Standard exam application fee is $40.00 ($125 for Police). Non-competitive positions, NY HELPS waiver appointments, and provisional hires apply directly through Suffolk County Workday.",
+    "it_titles": [
+      {
+        "title": "Programmer Analyst",
+        "spec_no": "0440",
+        "level": "Competitive",
+        "exam_type": "Continuous / T&E",
+        "typical_salary": "$68,000 - $88,000"
+      },
+      {
+        "title": "Senior Programmer Analyst",
+        "spec_no": "0442",
+        "level": "Competitive",
+        "exam_type": "Promotional / Open",
+        "typical_salary": "$82,000 - $106,000"
+      },
+      {
+        "title": "Network and Systems Specialist",
+        "spec_no": "0450",
+        "level": "Competitive",
+        "exam_type": "Continuous / T&E",
+        "typical_salary": "$62,000 - $92,000"
+      },
+      {
+        "title": "Database Administrator",
+        "spec_no": "0460",
+        "level": "Competitive",
+        "exam_type": "Open Competitive",
+        "typical_salary": "$88,000 - $118,000"
+      },
+      {
+        "title": "Applications Support Specialist",
+        "spec_no": "0445",
+        "level": "Competitive",
+        "exam_type": "Periodic Exam",
+        "typical_salary": "$58,000 - $80,000"
+      }
+    ],
+    "towns": [
+      {
+        "name": "Town of Babylon",
+        "type": "Town (Population ~218,000)",
+        "hall": "200 Sunrise Highway, Lindenhurst, NY 11757",
+        "url": "https://www.townofbabylon.com/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Brookhaven",
+        "type": "Town (Population ~485,000)",
+        "hall": "1 Independence Hill, Farmingville, NY 11738",
+        "url": "https://www.brookhavenny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Huntington",
+        "type": "Town (Population ~203,000)",
+        "hall": "100 Main Street, Huntington, NY 11743",
+        "url": "https://www.huntingtonny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Islip",
+        "type": "Town (Population ~339,000)",
+        "hall": "655 Main Street, Islip, NY 11751",
+        "url": "https://islipny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Riverhead",
+        "type": "Town (Population ~35,000)",
+        "hall": "200 Howell Avenue, Riverhead, NY 11901",
+        "url": "https://www.townofriverheadny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Smithtown",
+        "type": "Town (Population ~116,000)",
+        "hall": "99 West Main Street, Smithtown, NY 11787",
+        "url": "https://www.smithtownny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Southampton",
+        "type": "Town (Population ~58,000)",
+        "hall": "116 Hampton Road, Southampton, NY 11968",
+        "url": "https://www.southamptontownny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Southold",
+        "type": "Town (Population ~23,000)",
+        "hall": "53095 Main Road, Southold, NY 11971",
+        "url": "https://www.southoldtownny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of East Hampton",
+        "type": "Town (Population ~28,000)",
+        "hall": "159 Pantigo Road, East Hampton, NY 11937",
+        "url": "https://ehamptonny.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      },
+      {
+        "name": "Town of Shelter Island",
+        "type": "Town (Population ~3,200)",
+        "hall": "38 North Ferry Road, Shelter Island, NY 11964",
+        "url": "https://www.shelterislandtown.gov/",
+        "civil_service": "Administered by Suffolk County Civil Service"
+      }
+    ],
+    "major_villages": [
+      {
+        "name": "Inc. Village of Patchogue",
+        "url": "https://www.patchoguevillage.org/"
+      },
+      {
+        "name": "Inc. Village of Lindenhurst",
+        "url": "https://villageoflindenhurstny.gov/"
+      },
+      {
+        "name": "Inc. Village of Babylon",
+        "url": "https://villageofbabylonny.gov/"
+      },
+      {
+        "name": "Inc. Village of Port Jefferson",
+        "url": "https://portjeff.com/"
+      },
+      {
+        "name": "Inc. Village of Amityville",
+        "url": "https://amityville.com/"
+      }
+    ],
+    "educational_entities": [
+      {
+        "name": "Eastern Suffolk BOCES",
+        "url": "https://www.esboces.org/",
+        "job_portal": "https://www.olasjobs.org/eastern-suffolk-boces"
+      },
+      {
+        "name": "Western Suffolk BOCES",
+        "url": "https://www.wsboces.org/",
+        "job_portal": "https://www.olasjobs.org/western-suffolk-boces"
+      },
+      {
+        "name": "Suffolk County Community College",
+        "url": "https://www.sunysuffolk.edu/",
+        "job_portal": "https://www.sunysuffolk.edu/about-succ/employment/"
+      }
+    ]
+  },
+  "public_authorities_and_labs": [
+    {
+      "name": "Metropolitan Transportation Authority (MTA / LIRR)",
+      "type": "Public Benefit Corporation",
+      "portal": "https://careers.mta.org/",
+      "open_data": "https://new.mta.info/transparency/open-data",
+      "developer_api": "https://api.mta.info/",
+      "it_structure": "Direct hire (exempt from standard DCAS civil service examinations). Offers software engineering, data systems, transit telematics, and cybersecurity roles across MTA IT, Long Island Rail Road (LIRR), Metro-North, and NYC Transit.",
+      "headquarters": "2 Broadway, New York, NY 10004 & Jamaica Station, Queens (LIRR HQ)"
+    },
+    {
+      "name": "Brookhaven National Laboratory (BNL)",
+      "type": "U.S. Department of Energy (DOE) National Laboratory / Brookhaven Science Associates",
+      "portal": "https://jobs.bnl.gov/",
+      "location": "Upton, NY (Town of Brookhaven, Long Island)",
+      "it_structure": "Non-profit research laboratory operated under DOE prime contract. Hires scientific programmers, cloud software engineers, HPC specialists, Python/C++ developers, and data pipeline engineers. Not subject to NY state civil service exams; standard technical interviews and direct application.",
+      "usajobs_crosslist": "Select senior roles and fellowships cross-post to USAJOBS Series 1550/2210."
+    },
+    {
+      "name": "Port Authority of New York and New Jersey (PANYNJ)",
+      "type": "Bi-State Compact Authority",
+      "portal": "https://www.jointheportauthority.com/",
+      "it_structure": "Bi-state entity exempt from NY and NJ civil service laws. Direct application with competitive technical interviews. Operates JFK, LaGuardia, Newark, Port Authority Bus Terminal, PATH, and Hudson River crossings.",
+      "headquarters": "4 World Trade Center, 150 Greenwich Street, New York, NY 10007"
+    },
+    {
+      "name": "Long Island Power Authority (LIPA) / PSEG Long Island",
+      "type": "Municipal Electric Provider / Public Authority",
+      "portal": "https://www.lipower.org/about-us/careers/ & https://pseg.wd1.myworkdayjobs.com/PSEG_Careers",
+      "it_structure": "LIPA is a state public authority; electric grid operations are contracted to PSEG Long Island. Hires smart-grid software engineers, GIS analysts, SCADA engineers, and data analysts.",
+      "headquarters": "Uniondale, NY 11556"
+    },
+    {
+      "name": "Suffolk County Water Authority (SCWA)",
+      "type": "Public Benefit Corporation",
+      "portal": "https://www.scwa.com/careers/",
+      "it_structure": "Operates under Suffolk County Civil Service Commission guidelines with competitive, non-competitive, and labor class positions for IT infrastructure, GIS, water modeling, and enterprise ERP systems.",
+      "headquarters": "4060 Sunrise Highway, Oakdale, NY 11769"
+    },
+    {
+      "name": "New York Power Authority (NYPA)",
+      "type": "State Public Power Authority",
+      "portal": "https://www.nypa.gov/careers",
+      "it_structure": "Direct-hire authority positions covering grid software, telemetry, renewable energy analytics, and cybersecurity.",
+      "headquarters": "123 Main Street, White Plains, NY 10601 with Long Island transmission facilities"
+    }
+  ],
+  "higher_education_institutions": [
+    {
+      "name": "Stony Brook University (SUNY Stony Brook)",
+      "type": "Flagship State University / Academic Medical Center",
+      "portal": "https://employment.stonybrook.edu/ & https://statejobs.ny.gov/",
+      "it_structure": "Positions fall under SUNY Unclassified Service (Professional SL ranks: SL-1 Assistant, SL-2 Programmer/Analyst, SL-3 Senior Programmer/Analyst, SL-4 Lead Programmer/Analyst, SL-5 Assistant Director) or classified NYS civil service. Exempt from NY HELPS competitive exams; evaluated directly by department committees.",
+      "location": "Stony Brook, NY 11794 (Town of Brookhaven)"
+    },
+    {
+      "name": "Farmingdale State College (SUNY)",
+      "type": "State University of New York College of Technology",
+      "portal": "https://farmingdale.interviewexchange.com/ & https://statejobs.ny.gov/",
+      "it_structure": "SUNY Professional service SL ranks and classified state civil service positions in campus IT, network operations, and instructional technologies.",
+      "location": "Farmingdale, NY 11735 (Town of Babylon/Oyster Bay border)"
+    },
+    {
+      "name": "SUNY Old Westbury",
+      "type": "State University of New York College",
+      "portal": "https://oldwestbury.interviewexchange.com/ & https://statejobs.ny.gov/",
+      "it_structure": "Campus computing and institutional research data positions under SUNY Professional titles.",
+      "location": "Old Westbury, NY 11568 (Town of Oyster Bay / North Hempstead)"
+    },
+    {
+      "name": "City University of New York (CUNY Central & 25 Campuses)",
+      "type": "Public University System",
+      "portal": "https://cuny.jobs/",
+      "it_structure": "Hires under CUNY Classified Civil Service (e.g. IT Assistant, IT Associate, IT Senior Associate, IT Specialist) and Non-Teaching Instructional (HEO / Higher Education Officer series: Assistant to HEO, HEa, HEo). CUNY administers its own civil service examinations separate from NYC DCAS.",
+      "headquarters": "205 East 42nd Street, New York, NY 10017 with campuses in Queens, Brooklyn, Manhattan, Bronx, Staten Island"
+    }
+  ],
+  "other_major_ny_counties": [
+    {
+      "county": "Westchester County",
+      "seat": "White Plains",
+      "portal": "https://www.governmentjobs.com/careers/westchester",
+      "notes": "Active IT department; uses GovernmentJobs for civil service and open postings."
+    },
+    {
+      "county": "Rockland County",
+      "seat": "New City",
+      "portal": "https://www.rocklandcountyny.gov/departments/personnel",
+      "notes": "Administers exams for county, towns (Clarkstown, Ramapo, Orangetown), and villages."
+    },
+    {
+      "county": "Orange County",
+      "seat": "Goshen",
+      "portal": "https://www.orangecountygov.com/1126/Civil-Service-Examinations",
+      "notes": "Administers civil service across Orange County."
+    },
+    {
+      "county": "Dutchess County",
+      "seat": "Poughkeepsie",
+      "portal": "https://www.governmentjobs.com/careers/dutchessny",
+      "notes": "Publishes exams and vacancies on GovernmentJobs."
+    },
+    {
+      "county": "Albany County",
+      "seat": "Albany",
+      "portal": "https://www.albanycounty.com/departments/human-resources/civil-service",
+      "notes": "Administers local county, city of Albany, and town civil service."
+    },
+    {
+      "county": "Erie County",
+      "seat": "Buffalo",
+      "portal": "https://www.erie.gov/employment/",
+      "notes": "Second largest county by population in Upstate NY; extensive municipal IT services."
+    },
+    {
+      "county": "Monroe County",
+      "seat": "Rochester",
+      "portal": "https://www.governmentjobs.com/careers/monroecounty",
+      "notes": "Active NEOGOV portal with frequent IT Programmer Analyst and Network exams."
+    },
+    {
+      "county": "Onondaga County",
+      "seat": "Syracuse",
+      "portal": "https://www.employment.ongov.net/",
+      "notes": "Administers civil service for Syracuse and Onondaga County."
+    }
+  ]
+}
