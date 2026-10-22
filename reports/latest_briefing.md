@@ -1,282 +1,316 @@
 # Public Service & Civic Opportunity Intelligence — Weekly Briefing
-**Verification & Briefing Date:** 2026-10-21 | **Candidate Location:** Long Island, NY
+**Verification & Briefing Date:** 2026-10-22 | **Candidate Location:** Long Island, NY
 
 > **Executive Summary:** Deduplicated monitoring audit across New York State (NY HELPS), New York City (DCAS / Jobs NYC), Nassau & Suffolk Counties, Long Island Municipalities & Authorities, SUNY/CUNY, and Federal USAJOBS.
 
 ## 1. Immediate Action: Urgent Applications, Examinations & Deadlines
 ### 🚨 Critical Deadlines Approaching Within 7 Days
-- **[Information Technology Specialist](https://www.usajobs.gov/job/888647500)** — **Due in 0 day(s) (2026-10-21)**
-  - **Agency:** Department of State Headquarters | **Jurisdiction:** Federal Government
-  - **Salary:** Starting at $125,431 Per year (GG 13) | **Match:** Confirmed
-  - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/888647500) before 11:59 PM Eastern on 2026-10-21. Upload college transcript and federal resume.
-- **[Manager Information Technology Specialist 2, (SG-29) Item# 00304](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226398)** — **Due in 0 day(s) (10/21/26)**
-  - **Agency:** State Comptroller, Office of the | **Jurisdiction:** New York State
-  - **Salary:** From $123754 to $151566 Annually | **Match:** Confirmed
-  - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to Jobs@osc.ny.gov.
-- **[Business Solutions Architect](https://cityjobs.nyc.gov/job/775030)** — **Due in 0 day(s) (21-OCT-2026)**
-  - **Agency:** POLICE DEPARTMENT | **Jurisdiction:** New York City
-  - **Salary:** $100,000 - $180,000 Annual | **Match:** Likely
-  - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/775030) using Job ID 775030.
-- **[IT SPECIALIST (PLCYPLN/NETWORK SERVICES)](https://www.usajobs.gov/job/885817700)** — **Due in 1 day(s) (2026-10-22)**
+- **[IT SPECIALIST (PLCYPLN/NETWORK SERVICES)](https://www.usajobs.gov/job/885817700)** — **Due in 0 day(s) (2026-10-22)**
   - **Agency:** Air National Guard Units | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $89,508 Per year (GS 12) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/885817700) before 11:59 PM Eastern on 2026-10-22. Upload college transcript and federal resume.
-- **[IT Specialist (Data Mgmt)](https://www.usajobs.gov/job/888995100)** — **Due in 1 day(s) (2026-10-22)**
+- **[IT Specialist (Data Mgmt)](https://www.usajobs.gov/job/888995100)** — **Due in 0 day(s) (2026-10-22)**
   - **Agency:** Deputy Assistant Secretary for Information and Technology | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $76,463 Per year (GS 12) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/888995100) before 11:59 PM Eastern on 2026-10-22. Upload college transcript and federal resume.
-- **[Certified IT Administrator (Database), III](https://cityjobs.nyc.gov/job/635859)** — **Due in 1 day(s) (22-OCT-2026)**
+- **[Certified IT Administrator (Database), III](https://cityjobs.nyc.gov/job/635859)** — **Due in 0 day(s) (22-OCT-2026)**
   - **Agency:** POLICE DEPARTMENT | **Jurisdiction:** New York City
   - **Salary:** $100,743 - $142,460 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/635859) using Job ID 635859.
-- **[DEPUTY CHIEF INFORMATION SECURITY OFFICER](https://cityjobs.nyc.gov/job/803694)** — **Due in 1 day(s) (22-OCT-2026)**
+- **[DEPUTY CHIEF INFORMATION SECURITY OFFICER](https://cityjobs.nyc.gov/job/803694)** — **Due in 0 day(s) (22-OCT-2026)**
   - **Agency:** FIRE DEPARTMENT | **Jurisdiction:** New York City
   - **Salary:** $114,930 - $173,473 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/803694) using Job ID 803694.
-- **[Application Developer](https://cityjobs.nyc.gov/job/787589)** — **Due in 2 day(s) (23-OCT-2026)**
+- **[Application Developer](https://cityjobs.nyc.gov/job/787589)** — **Due in 1 day(s) (23-OCT-2026)**
   - **Agency:** DEPT OF CITYWIDE ADMIN SVCS | **Jurisdiction:** New York City
   - **Salary:** $99,209 - $114,090 Annual | **Match:** Confirmed
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/787589) using Job ID 787589.
-- **[IT Project Manager (Plcypln) - CES Recent Graduate](https://www.usajobs.gov/job/888776900)** — **Due in 2 day(s) (2026-10-23)**
+- **[IT Project Manager (Plcypln) - CES Recent Graduate](https://www.usajobs.gov/job/888776900)** — **Due in 1 day(s) (2026-10-23)**
   - **Agency:** Defense Information Systems Agency | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $57,736 Per year (GG 7-9) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/888776900) before 11:59 PM Eastern on 2026-10-23. Upload college transcript and federal resume.
-- **[IT SPECIALIST](https://www.usajobs.gov/job/889244500)** — **Due in 2 day(s) (2026-10-23)**
+- **[IT SPECIALIST](https://www.usajobs.gov/job/889244500)** — **Due in 1 day(s) (2026-10-23)**
   - **Agency:** Deputy Assistant Secretary for Information and Technology | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $106,437 Per year (GS 13) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889244500) before 11:59 PM Eastern on 2026-10-23. Upload college transcript and federal resume.
-- **[Interdisciplinary - CES Recent Graduate](https://www.usajobs.gov/job/888784900)** — **Due in 2 day(s) (2026-10-23)**
+- **[Interdisciplinary - CES Recent Graduate](https://www.usajobs.gov/job/888784900)** — **Due in 1 day(s) (2026-10-23)**
   - **Agency:** Defense Information Systems Agency | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $57,736 Per year (GG 7-9) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/888784900) before 11:59 PM Eastern on 2026-10-23. Upload college transcript and federal resume.
-- **[SENIOR LAN SPECIALIST](https://cityjobs.nyc.gov/job/766136)** — **Due in 2 day(s) (23-OCT-2026)**
+- **[SENIOR LAN SPECIALIST](https://cityjobs.nyc.gov/job/766136)** — **Due in 1 day(s) (23-OCT-2026)**
   - **Agency:** HRA/DEPT OF SOCIAL SERVICES | **Jurisdiction:** New York City
   - **Salary:** $99,209 - $114,090 Annual | **Match:** Confirmed
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/766136) using Job ID 766136.
-- **[SENIOR PROGRAMMER ANALYST](https://cityjobs.nyc.gov/job/778925)** — **Due in 2 day(s) (23-OCT-2026)**
+- **[SENIOR PROGRAMMER ANALYST](https://cityjobs.nyc.gov/job/778925)** — **Due in 1 day(s) (23-OCT-2026)**
   - **Agency:** HRA/DEPT OF SOCIAL SERVICES | **Jurisdiction:** New York City
   - **Salary:** $77,438 - $126,000 Annual | **Match:** Confirmed
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/778925) using Job ID 778925.
-- **[Data Analyst 2 - Albany](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226822)** — **Due in 2 day(s) (10/23/26)**
+- **[Data Analyst 2 - Albany](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226822)** — **Due in 1 day(s) (10/23/26)**
   - **Agency:** Labor, Department of | **Jurisdiction:** New York State
   - **Salary:** From $90582 to $114585 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to YourDOLJourneyIsHere@labor.ny.gov.
-- **[IT Support Specialist: Medicaid Fraud Control Unit (6459)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225464)** — **Due in 2 day(s) (10/23/26)**
+- **[IT Support Specialist: Medicaid Fraud Control Unit (6459)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225464)** — **Due in 1 day(s) (10/23/26)**
   - **Agency:** Attorney General, Office of the | **Jurisdiction:** New York State
   - **Salary:** From $90836 to $90836 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to recruitment@ag.ny.gov.
-- **[IT Support Specialist: Medicaid Fraud Control Unit (6460)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225486)** — **Due in 2 day(s) (10/23/26)**
+- **[IT Support Specialist: Medicaid Fraud Control Unit (6460)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225486)** — **Due in 1 day(s) (10/23/26)**
   - **Agency:** Attorney General, Office of the | **Jurisdiction:** New York State
   - **Salary:** From $86686 to $86686 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to recruitment@ag.ny.gov.
-- **[Information Technology Architect 1 (Enterprise Reporting Lead)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=223835)** — **Due in 2 day(s) (10/23/26)**
+- **[Information Technology Architect 1 (Enterprise Reporting Lead)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=223835)** — **Due in 1 day(s) (10/23/26)**
   - **Agency:** Attorney General, Office of the | **Jurisdiction:** New York State
   - **Salary:** From $100671 to $126875 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to hr.recruitment@ag.ny.gov.
-- **[Information Technology Architect 2 - Manager, AI Solutions](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=223837)** — **Due in 2 day(s) (10/23/26)**
+- **[Information Technology Architect 2 - Manager, AI Solutions](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=223837)** — **Due in 1 day(s) (10/23/26)**
   - **Agency:** Attorney General, Office of the | **Jurisdiction:** New York State
   - **Salary:** From $111708 to $137590 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to hr.recruitment@ag.ny.gov.
-- **[Data Engagement Analyst](https://cityjobs.nyc.gov/job/787396)** — **Due in 3 day(s) (24-OCT-2026)**
+- **[Data Engagement Analyst](https://cityjobs.nyc.gov/job/787396)** — **Due in 2 day(s) (24-OCT-2026)**
   - **Agency:** DEPARTMENT OF TRANSPORTATION | **Jurisdiction:** New York City
   - **Salary:** $78,740 - $90,551 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/787396) using Job ID 787396.
-- **[Director, Production Control](https://cityjobs.nyc.gov/job/787000)** — **Due in 3 day(s) (24-OCT-2026)**
+- **[Director, Production Control](https://cityjobs.nyc.gov/job/787000)** — **Due in 2 day(s) (24-OCT-2026)**
   - **Agency:** DEPARTMENT OF FINANCE | **Jurisdiction:** New York City
   - **Salary:** $169,000 - $179,000 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/787000) using Job ID 787000.
-- **[Public Information Specialist 1 (Digital Content) - VID 226664](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226664)** — **Due in 3 day(s) (10/24/26)**
+- **[Public Information Specialist 1 (Digital Content) - VID 226664](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226664)** — **Due in 2 day(s) (10/24/26)**
   - **Agency:** General Services, Office of | **Jurisdiction:** New York State
   - **Salary:** From $69964 to $88970 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to HRresumes@ogs.ny.gov.
-- **[Web Developer](https://cityjobs.nyc.gov/job/779871)** — **Due in 3 day(s) (24-OCT-2026)**
+- **[Web Developer](https://cityjobs.nyc.gov/job/779871)** — **Due in 2 day(s) (24-OCT-2026)**
   - **Agency:** DEPT OF RECORDS & INFO SERVICE | **Jurisdiction:** New York City
   - **Salary:** $105,000 - $105,000 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/779871) using Job ID 779871.
-- **[Analyst, Service Desk Operations](https://cityjobs.nyc.gov/job/768504)** — **Due in 4 day(s) (25-OCT-2026)**
+- **[Analyst, Service Desk Operations](https://cityjobs.nyc.gov/job/768504)** — **Due in 3 day(s) (25-OCT-2026)**
   - **Agency:** MAYORS OFFICE OF CONTRACT SVCS | **Jurisdiction:** New York City
   - **Salary:** $55,000 - $60,000 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/768504) using Job ID 768504.
-- **[Data Analyst, Bureau of Public Health Clinics](https://cityjobs.nyc.gov/job/795522)** — **Due in 4 day(s) (25-OCT-2026)**
+- **[Data Analyst, Bureau of Public Health Clinics](https://cityjobs.nyc.gov/job/795522)** — **Due in 3 day(s) (25-OCT-2026)**
   - **Agency:** DEPT OF HEALTH/MENTAL HYGIENE | **Jurisdiction:** New York City
   - **Salary:** $74,536 - $74,536 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/795522) using Job ID 795522.
-- **[Drug-Checking Data Analyst, Bureau of Alcohol and Drug Use](https://cityjobs.nyc.gov/job/770018)** — **Due in 4 day(s) (25-OCT-2026)**
+- **[Drug-Checking Data Analyst, Bureau of Alcohol and Drug Use](https://cityjobs.nyc.gov/job/770018)** — **Due in 3 day(s) (25-OCT-2026)**
   - **Agency:** DEPT OF HEALTH/MENTAL HYGIENE | **Jurisdiction:** New York City
   - **Salary:** $87,743 - $100,904 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/770018) using Job ID 770018.
-- **[Program & Data Manager, CHSC, Bureau of Harlem Neighborhood Health](https://cityjobs.nyc.gov/job/795332)** — **Due in 4 day(s) (25-OCT-2026)**
+- **[Program & Data Manager, CHSC, Bureau of Harlem Neighborhood Health](https://cityjobs.nyc.gov/job/795332)** — **Due in 3 day(s) (25-OCT-2026)**
   - **Agency:** DEPT OF HEALTH/MENTAL HYGIENE | **Jurisdiction:** New York City
   - **Salary:** $87,743 - $87,743 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/795332) using Job ID 795332.
-- **[IT Specialist](https://www.usajobs.gov/job/888853900)** — **Due in 5 day(s) (2026-10-26)**
+- **[IT Specialist](https://www.usajobs.gov/job/888853900)** — **Due in 4 day(s) (2026-10-26)**
   - **Agency:** Deputy Assistant Secretary for Information and Technology | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $76,463 Per year (GS 12-13) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/888853900) before 11:59 PM Eastern on 2026-10-26. Upload college transcript and federal resume.
-- **[Information Technology Specialist (Database Administrator)](https://www.usajobs.gov/job/888818100)** — **Due in 5 day(s) (2026-10-26)**
+- **[Information Technology Specialist (Database Administrator)](https://www.usajobs.gov/job/888818100)** — **Due in 4 day(s) (2026-10-26)**
   - **Agency:** Smithsonian Institution  | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $143,913 Per year (GS 14) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/888818100) before 11:59 PM Eastern on 2026-10-26. Upload college transcript and federal resume.
-- **[Supervisory IT Specialist (Director of Operations)](https://www.usajobs.gov/job/889418100)** — **Due in 5 day(s) (2026-10-26)**
+- **[Supervisory IT Specialist (Director of Operations)](https://www.usajobs.gov/job/889418100)** — **Due in 4 day(s) (2026-10-26)**
   - **Agency:** Deputy Assistant Secretary for Information and Technology | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $147,945 Per year (GS 15) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889418100) before 11:59 PM Eastern on 2026-10-26. Upload college transcript and federal resume.
-- **[Borough Planner](https://cityjobs.nyc.gov/job/800373)** — **Due in 5 day(s) (26-OCT-2026)**
+- **[Borough Planner](https://cityjobs.nyc.gov/job/800373)** — **Due in 4 day(s) (26-OCT-2026)**
   - **Agency:** DEPARTMENT OF TRANSPORTATION | **Jurisdiction:** New York City
   - **Salary:** $64,157 - $92,657 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/800373) using Job ID 800373.
-- **[Borough Planner](https://cityjobs.nyc.gov/job/800579)** — **Due in 5 day(s) (26-OCT-2026)**
+- **[Borough Planner](https://cityjobs.nyc.gov/job/800579)** — **Due in 4 day(s) (26-OCT-2026)**
   - **Agency:** DEPARTMENT OF TRANSPORTATION | **Jurisdiction:** New York City
   - **Salary:** $66,330 - $99,528 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/800579) using Job ID 800579.
-- **[Data Analyst, Bureau of Mental Health](https://cityjobs.nyc.gov/job/795916)** — **Due in 5 day(s) (26-OCT-2026)**
+- **[Data Analyst, Bureau of Mental Health](https://cityjobs.nyc.gov/job/795916)** — **Due in 4 day(s) (26-OCT-2026)**
   - **Agency:** DEPT OF HEALTH/MENTAL HYGIENE | **Jurisdiction:** New York City
   - **Salary:** $87,743 - $100,904 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/795916) using Job ID 795916.
-- **[Deputy Director](https://cityjobs.nyc.gov/job/795828)** — **Due in 5 day(s) (26-OCT-2026)**
+- **[Deputy Director](https://cityjobs.nyc.gov/job/795828)** — **Due in 4 day(s) (26-OCT-2026)**
   - **Agency:** FIRE DEPARTMENT | **Jurisdiction:** New York City
   - **Salary:** $68,213 - $160,940 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/795828) using Job ID 795828.
-- **[Program Lead, Data Systems & Counts Management](https://cityjobs.nyc.gov/job/795054)** — **Due in 5 day(s) (26-OCT-2026)**
+- **[Program Lead, Data Systems & Counts Management](https://cityjobs.nyc.gov/job/795054)** — **Due in 4 day(s) (26-OCT-2026)**
   - **Agency:** DEPARTMENT OF TRANSPORTATION | **Jurisdiction:** New York City
   - **Salary:** $98,159 - $128,995 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/795054) using Job ID 795054.
-- **[Senior Help Desk Technician](https://cityjobs.nyc.gov/job/794218)** — **Due in 5 day(s) (26-OCT-2026)**
+- **[Senior Help Desk Technician](https://cityjobs.nyc.gov/job/794218)** — **Due in 4 day(s) (26-OCT-2026)**
   - **Agency:** DISTRICT ATTORNEY KINGS COUNTY | **Jurisdiction:** New York City
   - **Salary:** $75,695 - $75,695 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/794218) using Job ID 794218.
-- **[CLOUD DEVOPS AND APPLICATION MIGRATION ENGINEER](https://cityjobs.nyc.gov/job/796411)** — **Due in 6 day(s) (27-OCT-2026)**
+- **[CLOUD DEVOPS AND APPLICATION MIGRATION ENGINEER](https://cityjobs.nyc.gov/job/796411)** — **Due in 5 day(s) (27-OCT-2026)**
   - **Agency:** HRA/DEPT OF SOCIAL SERVICES | **Jurisdiction:** New York City
   - **Salary:** $75,000 - $120,000 Annual | **Match:** Confirmed
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/796411) using Job ID 796411.
-- **[IT SPECIALIST (SYSADMIN)](https://www.usajobs.gov/job/889604800)** — **Due in 6 day(s) (2026-10-27)**
+- **[IT SPECIALIST (SYSADMIN)](https://www.usajobs.gov/job/889604800)** — **Due in 5 day(s) (2026-10-27)**
   - **Agency:** Military Treatment Facilities under DHA | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $83,935 Per year (GS 11) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889604800) before 11:59 PM Eastern on 2026-10-27. Upload college transcript and federal resume.
-- **[IT Specialist](https://www.usajobs.gov/job/889577100)** — **Due in 6 day(s) (2026-10-27)**
+- **[IT Specialist](https://www.usajobs.gov/job/889577100)** — **Due in 5 day(s) (2026-10-27)**
   - **Agency:** Deputy Assistant Secretary for Information and Technology | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $106,437 Per year (GS 13) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889577100) before 11:59 PM Eastern on 2026-10-27. Upload college transcript and federal resume.
-- **[IT Specialist (SYS ANALYSIS)](https://www.usajobs.gov/job/889467600)** — **Due in 6 day(s) (2026-10-27)**
+- **[IT Specialist (SYS ANALYSIS)](https://www.usajobs.gov/job/889467600)** — **Due in 5 day(s) (2026-10-27)**
   - **Agency:** Centers for Medicare & Medicaid Services | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $125,776 Per year (GS 14) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889467600) before 11:59 PM Eastern on 2026-10-27. Upload college transcript and federal resume.
-- **[UNIX MIDDLEWARE ENGINEER](https://cityjobs.nyc.gov/job/796416)** — **Due in 6 day(s) (27-OCT-2026)**
+- **[UNIX MIDDLEWARE ENGINEER](https://cityjobs.nyc.gov/job/796416)** — **Due in 5 day(s) (27-OCT-2026)**
   - **Agency:** HRA/DEPT OF SOCIAL SERVICES | **Jurisdiction:** New York City
   - **Salary:** $75,000 - $130,155 Annual | **Match:** Confirmed
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/796416) using Job ID 796416.
-- **[Assistant Manager, Information Services -CRM/Database Administrator](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226473)** — **Due in 6 day(s) (10/27/26)**
+- **[Assistant Manager, Information Services -CRM/Database Administrator](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226473)** — **Due in 5 day(s) (10/27/26)**
   - **Agency:** Board of Elections | **Jurisdiction:** New York State
   - **Salary:** From $70000 to $80000 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to HR@elections.ny.gov.
-- **[Economic Research Data Analyst](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=220678)** — **Due in 6 day(s) (10/27/26)**
+- **[Economic Research Data Analyst](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=220678)** — **Due in 5 day(s) (10/27/26)**
   - **Agency:** Empire State Development, NYS | **Jurisdiction:** New York State
   - **Salary:** From $90000 to $95000 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to resumes@esd.ny.gov.
-- **[JR. ASSET MANAGEMENT ANALYST](https://cityjobs.nyc.gov/job/795690)** — **Due in 6 day(s) (27-OCT-2026)**
+- **[JR. ASSET MANAGEMENT ANALYST](https://cityjobs.nyc.gov/job/795690)** — **Due in 5 day(s) (27-OCT-2026)**
   - **Agency:** HRA/DEPT OF SOCIAL SERVICES | **Jurisdiction:** New York City
   - **Salary:** $59,235 - $68,120 Annual | **Match:** Likely
   - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/795690) using Job ID 795690.
-- **[Business Systems Analyst 1, (SG-18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1,(SG-14)(NYHELPS) Item# 08681](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226899)** — **Due in 7 day(s) (10/28/26)**
+- **[Business Systems Analyst 1, (SG-18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1,(SG-14)(NYHELPS) Item# 08681](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226899)** — **Due in 6 day(s) (10/28/26)**
   - **Agency:** State Comptroller, Office of the | **Jurisdiction:** New York State
   - **Salary:** From $56183 to $88970 Annually | **Match:** Confirmed
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to Jobs@osc.ny.gov.
-- **[Computer Systems Analyst Series](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226787)** — **Due in 7 day(s) (10/28/26)**
+- **[Computer Systems Analyst Series](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226787)** — **Due in 6 day(s) (10/28/26)**
   - **Agency:** Court Administration, Office of | **Jurisdiction:** New York State
   - **Salary:** From $64971 to $99490 Annually | **Match:** Confirmed
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to application@nybarexam.org.
-- **[State EMS SIGNAL Systems Unit Coordinator (Business Systems Analyst 1 Health) (NY HELPS) - 52411](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227020)** — **Due in 7 day(s) (10/28/26)**
+- **[IT Specialist (Customer Support)](https://www.usajobs.gov/job/889804400)** — **Due in 6 day(s) (2026-10-28)**
+  - **Agency:** Small Business Administration | **Jurisdiction:** Federal Government
+  - **Salary:** Starting at $64,543 Per year (GS 9) | **Match:** Confirmed
+  - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889804400) before 11:59 PM Eastern on 2026-10-28. Upload college transcript and federal resume.
+- **[State EMS SIGNAL Systems Unit Coordinator (Business Systems Analyst 1 Health) (NY HELPS) - 52411](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227020)** — **Due in 6 day(s) (10/28/26)**
   - **Agency:** Health, Department of | **Jurisdiction:** New York State
   - **Salary:** From $69964 to $88970 Annually | **Match:** Confirmed
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to resume@health.ny.gov.
-- **[Supervisory Data Scientist](https://www.usajobs.gov/job/889599400)** — **Due in 7 day(s) (2026-10-28)**
+- **[Supervisory Data Scientist](https://www.usajobs.gov/job/889599400)** — **Due in 6 day(s) (2026-10-28)**
   - **Agency:** Veterans Health Administration | **Jurisdiction:** Federal Government
   - **Salary:** Starting at $107,446 Per year (GS 14) | **Match:** Confirmed
   - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889599400) before 11:59 PM Eastern on 2026-10-28. Upload college transcript and federal resume.
-- **[Information Technology Specialist 4 (SG-25) Item# 00789](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226907)** — **Due in 7 day(s) (10/28/26)**
+- **[Information Technology Specialist 4 (SG-25) Item# 00789](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226907)** — **Due in 6 day(s) (10/28/26)**
   - **Agency:** State Comptroller, Office of the | **Jurisdiction:** New York State
   - **Salary:** From $100671 to $126875 Annually | **Match:** Likely
   - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to Jobs@osc.ny.gov.
+- **[Appian Software Developer](https://cityjobs.nyc.gov/job/786115)** — **Due in 7 day(s) (29-OCT-2026)**
+  - **Agency:** DEPARTMENT OF FINANCE | **Jurisdiction:** New York City
+  - **Salary:** $125,000 - $150,000 Annual | **Match:** Confirmed
+  - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/786115) using Job ID 786115.
+- **[Information Technology Specialist (OS) NF-03](https://www.usajobs.gov/job/886720000)** — **Due in 7 day(s) (2026-10-29)**
+  - **Agency:** U.S. Military Academy | **Jurisdiction:** Federal Government
+  - **Salary:** Starting at $65,000 Per year (NF 3) | **Match:** Confirmed
+  - **Required Next Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/886720000) before 11:59 PM Eastern on 2026-10-29. Upload college transcript and federal resume.
+- **[Project Manager](https://cityjobs.nyc.gov/job/803006)** — **Due in 7 day(s) (29-OCT-2026)**
+  - **Agency:** NYC EMPLOYEES RETIREMENT SYS | **Jurisdiction:** New York City
+  - **Salary:** $75,000 - $150,000 Annual | **Match:** Confirmed
+  - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/803006) using Job ID 803006.
+- **[Data & Metrics Analyst](https://cityjobs.nyc.gov/job/784195)** — **Due in 7 day(s) (29-OCT-2026)**
+  - **Agency:** CAMPAIGN FINANCE BOARD | **Jurisdiction:** New York City
+  - **Salary:** $80,001 - $90,000 Annual | **Match:** Likely
+  - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/784195) using Job ID 784195.
+- **[Data Analyst 3 - 78120](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227102)** — **Due in 7 day(s) (10/29/26)**
+  - **Agency:** Health, Department of | **Jurisdiction:** New York State
+  - **Salary:** From $111708 to $137590 Annually | **Match:** Likely
+  - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to resume@health.ny.gov.
+- **[Financial Data Analyst (Data Analyst 2, SG-23)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222738)** — **Due in 7 day(s) (10/29/26)**
+  - **Agency:** Financial Services, Department of | **Jurisdiction:** New York State
+  - **Salary:** From $90582 to $114585 Annually | **Match:** Likely
+  - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
+- **[Financial Data Associate (Data Analyst 3, SG-27)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222740)** — **Due in 7 day(s) (10/29/26)**
+  - **Agency:** Financial Services, Department of | **Jurisdiction:** New York State
+  - **Salary:** From $111708 to $137590 Annually | **Match:** Likely
+  - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
+- **[IT Service Desk Manager](https://cityjobs.nyc.gov/job/806150)** — **Due in 7 day(s) (29-OCT-2026)**
+  - **Agency:** POLICE DEPARTMENT | **Jurisdiction:** New York City
+  - **Salary:** $75,000 - $180,000 Annual | **Match:** Likely
+  - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/806150) using Job ID 806150.
+- **[Laboratory Technician](https://cityjobs.nyc.gov/job/804185)** — **Due in 7 day(s) (29-OCT-2026)**
+  - **Agency:** DEPARTMENT OF TRANSPORTATION | **Jurisdiction:** New York City
+  - **Salary:** $57,323 - $84,334 Annual | **Match:** Likely
+  - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/804185) using Job ID 804185.
+- **[Manager Information Technology Services 2, (SG-M3) Item# 00600](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227129)** — **Due in 7 day(s) (10/29/26)**
+  - **Agency:** State Comptroller, Office of the | **Jurisdiction:** New York State
+  - **Salary:** From $120471 to $152238 Annually | **Match:** Likely
+  - **Required Next Action:** Send cover letter and resume citing the Vacancy ID to Jobs@osc.ny.gov.
+- **[Parking Data Analyst](https://cityjobs.nyc.gov/job/804324)** — **Due in 7 day(s) (29-OCT-2026)**
+  - **Agency:** DEPARTMENT OF TRANSPORTATION | **Jurisdiction:** New York City
+  - **Salary:** $87,743 - $110,120 Annual | **Match:** Likely
+  - **Required Next Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/804324) using Job ID 804324.
 
 ### ⚠️ Approaching Deadlines Within 8 to 14 Days
-- **[Appian Software Developer](https://cityjobs.nyc.gov/job/786115)** — Due in 8 days (29-OCT-2026)
-  - **Agency:** DEPARTMENT OF FINANCE | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/786115) using Job ID 786115.
-- **[Information Technology Specialist (OS) NF-03](https://www.usajobs.gov/job/886720000)** — Due in 8 days (2026-10-29)
-  - **Agency:** U.S. Military Academy | **Required Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/886720000) before 11:59 PM Eastern on 2026-10-29. Upload college transcript and federal resume.
-- **[Project Manager](https://cityjobs.nyc.gov/job/803006)** — Due in 8 days (29-OCT-2026)
-  - **Agency:** NYC EMPLOYEES RETIREMENT SYS | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/803006) using Job ID 803006.
-- **[Data & Metrics Analyst](https://cityjobs.nyc.gov/job/784195)** — Due in 8 days (29-OCT-2026)
-  - **Agency:** CAMPAIGN FINANCE BOARD | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/784195) using Job ID 784195.
-- **[Data Analyst 3 - 78120](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227102)** — Due in 8 days (10/29/26)
+- **[Data Analyst 1 - 3498](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227134)** — Due in 8 days (10/30/26)
   - **Agency:** Health, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to resume@health.ny.gov.
-- **[Financial Data Analyst (Data Analyst 2, SG-23)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222738)** — Due in 8 days (10/29/26)
-  - **Agency:** Financial Services, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
-- **[Financial Data Associate (Data Analyst 3, SG-27)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=222740)** — Due in 8 days (10/29/26)
-  - **Agency:** Financial Services, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
-- **[IT Service Desk Manager](https://cityjobs.nyc.gov/job/806150)** — Due in 8 days (29-OCT-2026)
-  - **Agency:** POLICE DEPARTMENT | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/806150) using Job ID 806150.
-- **[Laboratory Technician](https://cityjobs.nyc.gov/job/804185)** — Due in 8 days (29-OCT-2026)
-  - **Agency:** DEPARTMENT OF TRANSPORTATION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/804185) using Job ID 804185.
-- **[Manager Information Technology Services 2, (SG-M3) Item# 00600](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227129)** — Due in 8 days (10/29/26)
-  - **Agency:** State Comptroller, Office of the | **Required Action:** Send cover letter and resume citing the Vacancy ID to Jobs@osc.ny.gov.
-- **[Parking Data Analyst](https://cityjobs.nyc.gov/job/804324)** — Due in 8 days (29-OCT-2026)
-  - **Agency:** DEPARTMENT OF TRANSPORTATION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/804324) using Job ID 804324.
-- **[Data Analyst 1 - 3498](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227134)** — Due in 9 days (10/30/26)
-  - **Agency:** Health, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to resume@health.ny.gov.
-- **[Data Analyst 1/Trainee 1/Trainee 2](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227059)** — Due in 9 days (10/30/26)
+- **[Data Analyst 1/Trainee 1/Trainee 2](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227059)** — Due in 8 days (10/30/26)
   - **Agency:** Transportation, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to dot.sm.odm@dot.ny.gov.
-- **[Bus Stop Seating Data Coordinator, Furniture & Operations Unit](https://cityjobs.nyc.gov/job/802343)** — Due in 9 days (30-OCT-2026)
+- **[Bus Stop Seating Data Coordinator, Furniture & Operations Unit](https://cityjobs.nyc.gov/job/802343)** — Due in 8 days (30-OCT-2026)
   - **Agency:** DEPARTMENT OF TRANSPORTATION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/802343) using Job ID 802343.
-- **[College Aide](https://cityjobs.nyc.gov/job/800231)** — Due in 9 days (30-OCT-2026)
+- **[College Aide](https://cityjobs.nyc.gov/job/800231)** — Due in 8 days (30-OCT-2026)
   - **Agency:** DEPARTMENT OF TRANSPORTATION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/800231) using Job ID 800231.
-- **[Data Analyst for the Division of Housing Opportunity](https://cityjobs.nyc.gov/job/800972)** — Due in 9 days (30-OCT-2026)
+- **[Data Analyst for the Division of Housing Opportunity](https://cityjobs.nyc.gov/job/800972)** — Due in 8 days (30-OCT-2026)
   - **Agency:** HOUSING PRESERVATION & DVLPMNT | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/800972) using Job ID 800972.
-- **[Deputy Superintendent for Cybersecurity Law & Policy (Director Financial Services Programs 3, NS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225151)** — Due in 9 days (10/30/26)
+- **[Deputy Superintendent for Cybersecurity Law & Policy (Director Financial Services Programs 3, NS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=225151)** — Due in 8 days (10/30/26)
   - **Agency:** Financial Services, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
-- **[Policy Analyst for Technology & Innovation](https://cityjobs.nyc.gov/job/776328)** — Due in 9 days (30-OCT-2026)
+- **[Policy Analyst for Technology & Innovation](https://cityjobs.nyc.gov/job/776328)** — Due in 8 days (30-OCT-2026)
   - **Agency:** OFFICE OF THE MAYOR | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/776328) using Job ID 776328.
-- **[Senior Advisor, Digital Strategy](https://cityjobs.nyc.gov/job/789143)** — Due in 9 days (30-OCT-2026)
+- **[Senior Advisor, Digital Strategy](https://cityjobs.nyc.gov/job/789143)** — Due in 8 days (30-OCT-2026)
   - **Agency:** OFFICE OF THE MAYOR | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/789143) using Job ID 789143.
-- **[Senior Counsel for Technology Policy (Special Assistant, NS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226368)** — Due in 9 days (10/30/26)
+- **[Senior Counsel for Technology Policy (Special Assistant, NS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226368)** — Due in 8 days (10/30/26)
   - **Agency:** Financial Services, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
-- **[Senior Risk Analyst](https://cityjobs.nyc.gov/job/796781)** — Due in 9 days (30-OCT-2026)
+- **[Senior Risk Analyst](https://cityjobs.nyc.gov/job/796781)** — Due in 8 days (30-OCT-2026)
   - **Agency:** OFF OF PAYROLL ADMINISTRATION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/796781) using Job ID 796781.
-- **[Special Advisor to the Superintendent for Technology Policy (Special Assistant, NS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226367)** — Due in 9 days (10/30/26)
+- **[Special Advisor to the Superintendent for Technology Policy (Special Assistant, NS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=226367)** — Due in 8 days (10/30/26)
   - **Agency:** Financial Services, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
-- **[CLOUD INFRASTRUCTURE ENGINEER](https://cityjobs.nyc.gov/job/797109)** — Due in 10 days (31-OCT-2026)
+- **[CLOUD INFRASTRUCTURE ENGINEER](https://cityjobs.nyc.gov/job/797109)** — Due in 9 days (31-OCT-2026)
   - **Agency:** HRA/DEPT OF SOCIAL SERVICES | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/797109) using Job ID 797109.
-- **[Deputy Entity Director](https://cityjobs.nyc.gov/job/797126)** — Due in 10 days (31-OCT-2026)
+- **[Deputy Entity Director](https://cityjobs.nyc.gov/job/797126)** — Due in 9 days (31-OCT-2026)
   - **Agency:** FINANCIAL INFO SVCS AGENCY | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/797126) using Job ID 797126.
-- **[Application Support Technician](https://cityjobs.nyc.gov/job/720985)** — Due in 10 days (31-OCT-2026)
+- **[Application Support Technician](https://cityjobs.nyc.gov/job/720985)** — Due in 9 days (31-OCT-2026)
   - **Agency:** FINANCIAL INFO SVCS AGENCY | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/720985) using Job ID 720985.
-- **[COMPUTER ASSOCIATE OPERATIONS](https://cityjobs.nyc.gov/job/806419)** — Due in 10 days (31-OCT-2026)
+- **[COMPUTER ASSOCIATE OPERATIONS](https://cityjobs.nyc.gov/job/806419)** — Due in 9 days (31-OCT-2026)
   - **Agency:** FIRE DEPARTMENT | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/806419) using Job ID 806419.
-- **[Data Scientist](https://cityjobs.nyc.gov/job/779212)** — Due in 10 days (31-OCT-2026)
+- **[Data Scientist](https://cityjobs.nyc.gov/job/779212)** — Due in 9 days (31-OCT-2026)
   - **Agency:** TAXI & LIMOUSINE COMMISSION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/779212) using Job ID 779212.
-- **[Information Technology Architect 2 (Solutions Architecture)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227417)** — Due in 10 days (10/31/26)
+- **[Information Technology Architect 2 (Solutions Architecture)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227417)** — Due in 9 days (10/31/26)
   - **Agency:** Information Technology Services, Office of | **Required Action:** Send cover letter and resume citing the Vacancy ID to PostingResponses@its.ny.gov.
-- **[Business Systems Analyst 1 Trainee 1 / 2 (NY HELPS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227283)** — Due in 12 days (11/02/26)
+- **[Business Systems Analyst 1 Trainee 1 / 2 (NY HELPS)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227283)** — Due in 11 days (11/02/26)
   - **Agency:** Children & Family Services, Office of | **Required Action:** Send cover letter and resume citing the Vacancy ID to eoajobpostings@ocfs.ny.gov.
-- **[Director of SUNY IT Optimization and Engagement](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=223478)** — Due in 12 days (11/02/26)
+- **[IT Specialist (CUSTSPT)](https://www.usajobs.gov/job/889783900)** — Due in 11 days (2026-11-02)
+  - **Agency:** Federal Emergency Management Agency | **Required Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889783900) before 11:59 PM Eastern on 2026-11-02. Upload college transcript and federal resume.
+- **[IT Specialist (Network)](https://www.usajobs.gov/job/889723600)** — Due in 11 days (2026-11-02)
+  - **Agency:** Deputy Assistant Secretary for Information and Technology | **Required Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889723600) before 11:59 PM Eastern on 2026-11-02. Upload college transcript and federal resume.
+- **[Director of SUNY IT Optimization and Engagement](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=223478)** — Due in 11 days (11/02/26)
   - **Agency:** SUNY System Administration | **Required Action:** Send cover letter and resume citing the Vacancy ID to hr@sysadm.suny.edu.
-- **[Data Analyst 3, SG-27](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=224795)** — Due in 13 days (11/03/26)
+- **[Technology Analyst 1 (Artifical Intelligence) - 71020 (Two positions)](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227476)** — Due in 11 days (11/02/26)
+  - **Agency:** Information Technology Services, Office of | **Required Action:** Send cover letter and resume citing the Vacancy ID to PostingResponses@its.ny.gov.
+- **[Data Analyst 3, SG-27](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=224795)** — Due in 12 days (11/03/26)
   - **Agency:** Financial Services, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to NCE.Notifications@dfs.ny.gov.
-- **[Director, Application Support](https://cityjobs.nyc.gov/job/798584)** — Due in 13 days (03-NOV-2026)
+- **[Director, Application Support](https://cityjobs.nyc.gov/job/798584)** — Due in 12 days (03-NOV-2026)
   - **Agency:** CONSUMER AND WORKER PROTECTION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/798584) using Job ID 798584.
-- **[Computer Associate](https://cityjobs.nyc.gov/job/806605)** — Due in 13 days (03-NOV-2026)
+- **[Computer Associate](https://cityjobs.nyc.gov/job/806605)** — Due in 12 days (03-NOV-2026)
   - **Agency:** DEPARTMENT OF FINANCE | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/806605) using Job ID 806605.
-- **[Data Scientist](https://cityjobs.nyc.gov/job/806898)** — Due in 13 days (03-NOV-2026)
+- **[Data Scientist](https://cityjobs.nyc.gov/job/806898)** — Due in 12 days (03-NOV-2026)
   - **Agency:** POLICE DEPARTMENT | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/806898) using Job ID 806898.
-- **[Director (ACP)](https://cityjobs.nyc.gov/job/784533)** — Due in 13 days (03-NOV-2026)
+- **[Director (ACP)](https://cityjobs.nyc.gov/job/784533)** — Due in 12 days (03-NOV-2026)
   - **Agency:** DEPT OF DESIGN & CONSTRUCTION | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/784533) using Job ID 784533.
-- **[GENERATIVE AI DEVELOPER GRADUATE INTERN](https://cityjobs.nyc.gov/job/798355)** — Due in 13 days (03-NOV-2026)
+- **[GENERATIVE AI DEVELOPER GRADUATE INTERN](https://cityjobs.nyc.gov/job/798355)** — Due in 12 days (03-NOV-2026)
   - **Agency:** HRA/DEPT OF SOCIAL SERVICES | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/798355) using Job ID 798355.
-- **[IT Intern](https://cityjobs.nyc.gov/job/797780)** — Due in 13 days (03-NOV-2026)
+- **[IT Intern](https://cityjobs.nyc.gov/job/797780)** — Due in 12 days (03-NOV-2026)
   - **Agency:** FINANCIAL INFO SVCS AGENCY | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/797780) using Job ID 797780.
-- **[Data Analyst 1](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227354)** — Due in 14 days (11/04/26)
+- **[Business Systems Analyst 1 (NY HELPS) - 15298, 15408, 88436](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227448)** — Due in 13 days (11/04/26)
+  - **Agency:** Health, Department of | **Required Action:** Send cover letter and resume citing the Vacancy ID to resume@health.ny.gov.
+- **[Data Analyst 1](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227354)** — Due in 13 days (11/04/26)
   - **Agency:** Justice Center For The Protection Of People With Special Needs | **Required Action:** Send cover letter and resume citing the Vacancy ID to jc.sm.hrresumes@justicecenter.ny.gov.
-- **[Information Technology Cybersecurity Specialist](https://www.usajobs.gov/job/889557000)** — Due in 14 days (2026-11-04)
+- **[Information Technology Cybersecurity Specialist](https://www.usajobs.gov/job/889557000)** — Due in 13 days (2026-11-04)
   - **Agency:** U.S. Trustee Program | **Required Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889557000) before 11:59 PM Eastern on 2026-11-04. Upload college transcript and federal resume.
+- **[Senior Super Intelligence Architect](https://www.usajobs.gov/job/889627100)** — Due in 14 days (2026-11-05)
+  - **Agency:** Office of the Secretary of the Interior | **Required Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889627100) before 11:59 PM Eastern on 2026-11-05. Upload college transcript and federal resume.
+- **[Senior Super Intelligence Architect](https://www.usajobs.gov/job/889656900)** — Due in 14 days (2026-11-05)
+  - **Agency:** Office of the Secretary of the Interior | **Required Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889656900) before 11:59 PM Eastern on 2026-11-05. Upload college transcript and federal resume.
+- **[Senior Super Intelligence Engineer / Architect](https://www.usajobs.gov/job/889628700)** — Due in 14 days (2026-11-05)
+  - **Agency:** Office of the Secretary of the Interior | **Required Action:** Apply online via USAJOBS (https://www.usajobs.gov/job/889628700) before 11:59 PM Eastern on 2026-11-05. Upload college transcript and federal resume.
+- **[Data Analyst 2; Central Office](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=227463)** — Due in 14 days (11/05/26)
+  - **Agency:** Mental Health, Office of | **Required Action:** Send cover letter and resume citing the Vacancy ID to OMHHRM@OMH.NY.GOV.
+- **[Senior Data Analyst, Bureau of Public Health Clinics](https://cityjobs.nyc.gov/job/790014)** — Due in 14 days (05-NOV-2026)
+  - **Agency:** DEPT OF HEALTH/MENTAL HYGIENE | **Required Action:** Apply online at Jobs NYC (https://cityjobs.nyc.gov/job/790014) using Job ID 790014.
+- **[Senior Manager of Research and Data Analytics](https://statejobs.ny.gov/public/vacancyDetailsView.cfm?id=221248)** — Due in 14 days (11/05/26)
+  - **Agency:** Empire State Development, NYS | **Required Action:** Send cover letter and resume citing the Vacancy ID to resumes@esd.ny.gov.
 
 ### ⚡ Active Continuous Actions & Standing Registrations
 - **NY HELPS Direct Stream:** Apply directly to SG-18 and SG-23 Information Technology Specialist and Data Analyst titles (no civil service exam required; exam requirement waived through June 30, 2028).
@@ -442,12 +476,12 @@ To combat severe post-pandemic public sector vacancies, the New York State Civil
 
 ---
 ## 5. Changes Since Last Report & Audit Tracker
-- **Total Tracked Opportunities:** 203
-- **Active Opportunities on Shortlist:** 199
-- **Archived / Historical Opportunities Retained:** 4
-- **Confirmed Candidate Qualification Matches:** 66
-- **Critical Deadlines (<=7 Days):** 48
-- **Approaching Deadlines (<=14 Days):** 39
+- **Total Tracked Opportunities:** 213
+- **Active Opportunities on Shortlist:** 208
+- **Archived / Historical Opportunities Retained:** 5
+- **Confirmed Candidate Qualification Matches:** 72
+- **Critical Deadlines (<=7 Days):** 57
+- **Approaching Deadlines (<=14 Days):** 38
 
 > **Missed Deadline & Equivalent Pathway Audit:**
 > For any closed filing deadlines (such as annual DCAS exams or suspended NYS ITS 1 written exams), equivalent active pathways remain operational: NY HELPS allows direct non-competitive appointment into permanent state IT titles without examination, and NYC non-competitive titles (IT Project Specialist, City Research Scientist) hire year-round.
